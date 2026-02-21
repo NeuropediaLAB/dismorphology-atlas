@@ -8,6 +8,7 @@ LABEL description="Interactive web application for morphological terminology"
 COPY index.html /usr/share/nginx/html/
 COPY data /usr/share/nginx/html/data
 COPY images /usr/share/nginx/html/images
+COPY assets /usr/share/nginx/html/assets
 
 # Create default nginx configuration
 RUN echo 'server { \
