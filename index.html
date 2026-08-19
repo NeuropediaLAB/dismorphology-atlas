@@ -885,7 +885,7 @@
                         }
                     }
                     const imgCountEl = document.getElementById('totalImagesCount');
-                    if (imgCountEl) imgCountEl.textContent = '388';
+                    if (imgCountEl) imgCountEl.textContent = Object.keys(termImageMap).length;
                 } catch (e) {
                     console.warn('No se pudo cargar el mapeo de imágenes:', e);
                 }
@@ -964,8 +964,9 @@ function createAccordion() {
                             defPreview = `<span class="reference-badge">Ver: ${term.reference_to}</span> ` + defPreview;
                         }
                         
-                        // Check if term has images
-                        const hasImages = termImageMap[term.term] && termImageMap[term.term].length > 0;
+                        // Check if term has images (use term_en for ES, term for EN)
+                        const imgKey1 = term.term_en || term.term;
+                        const hasImages = termImageMap[imgKey1] && termImageMap[imgKey1].length > 0;
                         const imageIcon = hasImages ? '<span class="image-indicator" title="Contiene imágenes">🖼️</span>' : '';
                         
                         introItem.innerHTML = `
@@ -988,8 +989,9 @@ function createAccordion() {
                             defPreview = `<span class="reference-badge">Ver: ${term.reference_to}</span> ` + defPreview;
                         }
                         
-                        // Check if term has images
-                        const hasImages = termImageMap[term.term] && termImageMap[term.term].length > 0;
+                        // Check if term has images (use term_en for ES, term for EN)
+                        const imgKey2 = term.term_en || term.term;
+                        const hasImages = termImageMap[imgKey2] && termImageMap[imgKey2].length > 0;
                         const imageIcon = hasImages ? '<span class="image-indicator" title="Contiene imágenes">🖼️</span>' : '';
                         
                         termItem.innerHTML = `

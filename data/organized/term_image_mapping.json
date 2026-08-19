@@ -1,5 +1,755 @@
 {
-  "Vermilion, Lower Lip, Thin": [
+  "Microcephaly": [
+    {
+      "figure": 8,
+      "caption": "Microcephaly. Decreased size of the cranium is cranium. Differences in size are difficult to appreciate but accompanied by marked posterior sloping of the forehead. increased head size in this chil...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-008.png"
+      ]
+    }
+  ],
+  "High Anterior Hairline": [
+    {
+      "figure": 19,
+      "caption": "Hairline, high anterior. The high anterior hairline contributes to an appearance of tall forehead.",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-019.png"
+      ]
+    }
+  ],
+  "Plagiocephaly": [
+    {
+      "figure": 11,
+      "caption": "Plagiocephaly. There is asymmetry of head shape: Note that one can see a combination of unilateral occipital",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-011.png"
+      ]
+    }
+  ],
+  "Abnormal Position Hair Whorl": [
+    {
+      "figure": 18,
+      "caption": "Hair whorl, abnormal position. The hair whorl is positioned postero-inferiorly than its usual location lateral to the midline and close to the vertex of the skull.",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-018.png"
+      ]
+    }
+  ],
+  "Low Anterior Hairline": [
+    {
+      "figure": 20,
+      "caption": "Hairline, low anterior. The low anterior hairline contributes to an appearance of short forehead. root of the nose), in the midline, more than two SD below the mean (Fig. 20a,b). objective OR 15524...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-020.png"
+      ]
+    },
+    {
+      "figure": 37,
+      "caption": "Forehead creases, vertical. Vertical soft tissue creases are noted in the midline of the forehead. These often extending from the hairline to the brow. Forehead, short: See Hairline, low anterior 1...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-037.png"
+      ]
+    }
+  ],
+  "Prominent Occiput": [
+    {
+      "figure": 10,
+      "caption": "Occiput, prominent. The posterior part of the skull flattening with ipsilateral frontal prominence, leading to shows increased convexity. rhomboid cranial shape or asymmetry of the posterior skull ...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-010.png"
+      ]
+    }
+  ],
+  "Cloverleaf Skull": [
+    {
+      "figure": 12,
+      "caption": "Skull, Cloverleaf. The skull has a trilobar front or behind (Fig. 12). subjective configuration when viewed from the front or behind. Synonym: Kleeblattsch€adel",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-012.png"
+      ]
+    }
+  ],
+  "Sparse Scalp Hair": [
+    {
+      "figure": 22,
+      "caption": "Scalp hair, sparse. Hair density is reduced giving a calipers, with the tips firmly pressed against the inferomedial thinned appearance. surface of the angle of the mandible [Farkas, 1981]. Broad f...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-022.png"
+      ]
+    },
+    {
+      "figure": 25,
+      "caption": "Sparse eyelashes in a girl who also has some protruding ears. See also Figure 33. thinning of the lashes as well as Sparse eyebrows and sparse scalp hair. See also Figure 26.",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-025.png"
+      ]
+    }
+  ],
+  "Coarse Face": [
+    {
+      "figure": 25,
+      "caption": "Face, coarse. Facial features lack the usual fine and sharp appearance and are rounded and heavy with thickened skin, subcutaneous or bony tissues. Face, Long Definition: Facial height (length) is ...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-025.png"
+      ]
+    }
+  ],
+  "Narrow Face": [
+    {
+      "figure": 28,
+      "caption": "Face, narrow. There is reduction in width of the upper and lower face. Without actual measurement it can be difficult to decide whether increased height or reduced width is real.",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-028.png"
+      ]
+    },
+    {
+      "figure": 32,
+      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
+      ]
+    }
+  ],
+  "Frontal Bossing": [
+    {
+      "figure": 32,
+      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
+      ]
+    },
+    {
+      "figure": 38,
+      "caption": "Frontal bossing. There is bilateral bulging of the Definition: Linear vertical groove in the midline of the forehead, lateral aspects of the forehead with relative sparing of the extending from hai...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-038.png"
+      ]
+    }
+  ],
+  "Triangular Face": [
+    {
+      "figure": 32,
+      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
+      ]
+    }
+  ],
+  "Depressed Glabella": [
+    {
+      "figure": 39,
+      "caption": "Glabella, depressed. Note the depression of the midline forehead between the supraorbital ridges.",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-039.png"
+      ]
+    }
+  ],
+  "Narrow Forehead": [
+    {
+      "figure": 8,
+      "caption": "Microcephaly. Decreased size of the cranium is cranium. Differences in size are difficult to appreciate but accompanied by marked posterior sloping of the forehead. increased head size in this chil...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-008.png"
+      ]
+    },
+    {
+      "figure": 32,
+      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
+      ]
+    },
+    {
+      "figure": 36,
+      "caption": "Forehead, sloping. The anterior surface of the",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-036.png"
+      ]
+    },
+    {
+      "figure": 34,
+      "caption": "Forehead, narrow. Note the decreased distance forehead slopes posteriorly in an excessive manner. between the two sides of the forehead with narrowing at the temples.",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-034.png"
+      ]
+    }
+  ],
+  "Premaxillary Prominence": [
+    {
+      "figure": 55,
+      "caption": "Premaxillary prominence. Note increased convexity from the lateral margin of the nose, where nasal base meets the skin of the face and an increased nasolabial angle giving the of the face, to a poi...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-055.png"
+      ]
+    }
+  ],
+  "Midface Prominence": [
+    {
+      "figure": 51,
+      "caption": "Midface prominence. Note prominence of the Nasolabial crease, prominent: See Nasolabial fold, prominent infraorbital and perialar regions leading to more pronounced convexity of the face and increa...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-051.png"
+      ]
+    }
+  ],
+  "Cheekbone Underdevelopment": [
+    {
+      "figure": 46,
+      "caption": "Cheekbone underdevelopment. The cheekbones portion of the maxilla, contiguous with the lateral boundary of the overlying the zygoma of the temporal bone of the skull are nasal bridge. less prominen...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-046.png"
+      ]
+    },
+    {
+      "figure": 49,
+      "caption": "Malar flattening. Note the underdevelopment of bony tissues lateral to the nasal bridge extending from the inner corner of the eye to the medial aspect of the cheekbone.",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-049.png"
+      ]
+    }
+  ],
+  "Prognathism": [
+    {
+      "figure": 62,
+      "caption": "Retrognathia. The lower jaw is set back from the Micrognathism: See Micrognathia plane of the face. Prognathia: See Prognathism",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-062.png"
+      ]
+    },
+    {
+      "figure": 61,
+      "caption": "Prognathism. There is anterior protrusion of the usual. mandible such that the alveolar ridge extends beyond the vertical plane of the maxillary alveolar ridge. Chin, cleft: See Chin, vertical crea...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-061.png"
+      ]
+    }
+  ],
+  "Full Cheeks": [
+    {
+      "figure": 47,
+      "caption": "Cheeks, full. Note the increased prominence or roundness of the soft tissues between the cheekbones Malar hypoplasia: See Malar flattening and mandible. Malar Prominence Definition: Prominence of t...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-047.png"
+      ]
+    }
+  ],
+  "Retrognathia": [
+    {
+      "figure": 62,
+      "caption": "Retrognathia. The lower jaw is set back from the Micrognathism: See Micrognathia plane of the face. Prognathia: See Prognathism",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-062.png"
+      ]
+    }
+  ],
+  "Vertical Crease Chin": [
+    {
+      "figure": 70,
+      "caption": "Chin, vertical crease. Note the vertical crease in the fat pad of the chin.",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-070.png"
+      ]
+    }
+  ],
+  "Blepharochalasis": [
+    {
+      "figure": 6,
+      "caption": "Blepharochalasis, wrinkled, thin eyelids, which in Ectropion this patient is limited to the upper lids. Definition: An outward turning (eversion) or rotation of the eyelid margin (Fig. 9). subjecti...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-006.png"
+      ]
+    }
+  ],
+  "Micrognathia": [
+    {
+      "figure": 62,
+      "caption": "Retrognathia. The lower jaw is set back from the Micrognathism: See Micrognathia plane of the face. Prognathia: See Prognathism",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-062.png"
+      ]
+    }
+  ],
+  "Neck Webbing": [
+    {
+      "figure": 72,
+      "caption": "Neck, long. Note the increased distance from the point where neck and shoulders meet to the inferior FIG. 74. Neck webbing. Note the bilateral folds of skin on the margin of the occipital bone. pos...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_head_and_face-072.png"
+      ]
+    }
+  ],
+  "Epiblepharon": [
+    {
+      "figure": 11,
+      "caption": "Epiblepharon in a young boy with folded-down age, so in the objective finding cannot be made using these norms in upper eyelid skin, which is overlapping the palpebral persons above 15 years of age...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-011.png"
+      ]
+    }
+  ],
+  "Ectopic Lacrimal Punctum": [
+    {
+      "figure": 30,
+      "caption": "The left eye shows an inferiorly placed medial an imaginary horizontal line formed by the two medial canthi when canthus and Ectopic lacrimal punctum plus a defect in the the patient holds their he...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-030.png"
+      ]
+    }
+  ],
+  "Prominent Eyelashes": [
+    {
+      "figure": 21,
+      "caption": "Thick eyebrows, in a patient who also has rim rather than turning gently downward at that location (Fig. 19). Prominent eyelashes as well. This pre-teenage boy also subjective shaves his facial hai...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-021.png"
+      ]
+    },
+    {
+      "figure": 24,
+      "caption": "Prominent eyelashes in a boy. He also has the Hypotelorism: See Eyes, closely spaced finding of Long eyelashes, but that should be coded separately. See also Figure 21. Hypotrichosis: See Eyebrows,...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-024.png"
+      ]
+    }
+  ],
+  "Synophrys": [
+    {
+      "figure": 39,
+      "caption": "A patient with Synophrys and Downslanted",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_periorbital_region-039.png"
+      ]
+    }
+  ],
+  "Absent Antihelix": [
+    {
+      "figure": 3,
+      "caption": "Anatomy of antihelix. FIG. 5. Absent antihelix. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Ministerio de San...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-003.png"
+      ]
+    },
+    {
+      "figure": 7,
+      "caption": "Angulated antihelix. Note also the presence of a bifid FIG. 9. Prominent and underdeveloped inferior crus of lobe in the left panel. antihelix. a: Underdeveloped. b: Average. c: Prominent. 15524833...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-007.png"
+      ]
+    },
+    {
+      "figure": 12,
+      "caption": "Prominent and underdeveloped superior crus of antihelix. a: Absent, very indistinct. b: Slightly indistinct. c: Average. d: Slightly more distinct. e: Very distinct, sharp.",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-012.png"
+      ]
+    }
+  ],
+  "Everted Antitragus": [
+    {
+      "figure": 11,
+      "caption": "Serpiginous stem. Antitragus, double: see Antitragus, bifid Antitragus, enlarged: see Antitragus, prominent 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.325...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-011.png"
+      ]
+    },
+    {
+      "figure": 17,
+      "caption": "Prominent and underdeveloped antitragus. a:",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-017.png"
+      ]
+    },
+    {
+      "figure": 15,
+      "caption": "Bifid antitragus. Underdeveloped. b: Average. c: Prominent.",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-015.png"
+      ]
+    },
+    {
+      "figure": 16,
+      "caption": "Everted antitragus. FIG. 18. Normal area of concha. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Ministerio de...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-016.png"
+      ]
+    }
+  ],
+  "Satyr Ear": [
+    {
+      "figure": 63,
+      "caption": "Satyr ear. Stewart. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library ...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-063.png"
+      ]
+    }
+  ],
+  "Squared Superior Portion of Helix": [
+    {
+      "figure": 44,
+      "caption": "Squared superior portion of helix. FIG. 46. Normal anatomy of the lobe. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Prov...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-044.png"
+      ]
+    }
+  ],
+  "Expanded Terminal Portion of Crus of Helix": [
+    {
+      "figure": 35,
+      "caption": "Expanded terminal portion of crus helix. Underdeveloped. b: Average. c: Prominent.",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-035.png"
+      ]
+    }
+  ],
+  "Horizontal Crus of Helix": [
+    {
+      "figure": 36,
+      "caption": "Horizontal crus of helix. FIG. 38. Serpiginous crus of helix. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Min...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_ear-036.png"
+      ]
+    }
+  ],
+  "Duplicated Tragus": [
+    {
+      "figure": 71,
+      "caption": "Degree of prominence of the tragus. a: Very underdeveloped. b: Mildly underdeveloped. c: Average. d: Prominent.",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_ear",
+      "images": []
+    }
+  ],
+  "High Insertion Columella": [
+    {
+      "figure": 8,
+      "caption": "High insertion of the columella. Note that it is usually columella’’ has been deleted because a columella is thought to impossible to determine whether the alar attachment to always be present, exc...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-008.png"
+      ]
+    }
+  ],
+  "Broad Columella": [
+    {
+      "figure": 7,
+      "caption": "Broad columella. Please note that in the right panel Columella, rounded: see Columella, low hanging not only the columella is broad but there are also soft tissue swellings on each side of the colu...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-007.png"
+      ]
+    }
+  ],
+  "Convex Nasal Ridge": [
+    {
+      "figure": 26,
+      "caption": "Convex nasal profile. The nose appears often also prominent, and the columella low. sion of a Depressed nasal ridge, but this should be assessed in profile and separately coded. Marked widening of ...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-026.png"
+      ]
+    }
+  ],
+  "Concave Nasal Ridge": [
+    {
+      "figure": 25,
+      "caption": "Concave nasal ridge. Please note the concave nasal Nasal ridge, recessed: see Nasal ridge, depressed ridge goes along with anteverted nares in the left two Nasal ridge, retruded: see Nasal ridge, d...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-025.png"
+      ]
+    }
+  ],
+  "Single Naris": [
+    {
+      "figure": 16,
+      "caption": "Single naris. Note positioning in the midline in left",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-016.png"
+      ]
+    }
+  ],
+  "Overhanging Nasal Tip": [
+    {
+      "figure": 19,
+      "caption": "Wide nasal base. Please note that in the right panel the picture is taken slightly from above allowing the overhanging nasal tip to obscure almost completely the broad nasal base, so this would not...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-019.png"
+      ]
+    },
+    {
+      "figure": 35,
+      "caption": "Overhanging nasal tip. Please note that this feature should be evaluated from the side and can only be appreciated in a frontal view when very expressed as in the left panel. FIG. 38. Bulbous nose....",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-035.png"
+      ]
+    }
+  ],
+  "Bifid Nasal Tip": [
+    {
+      "figure": 30,
+      "caption": "Bifid nasal tip. Please note than in the middle and right panel the nasal bridge, ridge and base are also broad. Definition: Nasal tip positioned to one side of the midline (Fig. 33). subjective Co...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-030.png"
+      ]
+    },
+    {
+      "figure": 37,
+      "caption": "Bifid nose. Nasal tip, retruded: see Nasal tip, depressed Nasal tip, upturned: see Nares, anteverted Nasal tip, wide: see Nasal tip, broad Nose, Bulbous Definition: Increased volume and globular sh...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-037.png"
+      ]
+    }
+  ],
+  "Long Philtrum": [
+    {
+      "figure": 46,
+      "caption": "Broad philtrum. 1. Variations in length: long; short 2. Variations in width: broad; narrow 3. Variations in depths: smooth; deep 4. Unusual appearance: tented; malaligned philtral ridges; midline A...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-046.png"
+      ]
+    },
+    {
+      "figure": 48,
+      "caption": "Long philtrum. Please note that the length of the Philtrum prominent: see Philtrum, deep philtrum here is increased in an absolute sense. For an adequate subjective evaluation one needs the nasal l...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-048.png"
+      ]
+    }
+  ],
+  "Midline Raphe Philtrum": [
+    {
+      "figure": 49,
+      "caption": "Midline raphe of the philtrum. Apparently decreased distance between nasal base and midline upper lip vermilion border. subjective 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-049.png"
+      ]
+    }
+  ],
+  "Smooth Philtrum": [
+    {
+      "figure": 19,
+      "caption": "Fibrous syngnathia. See Oral synechiae as well. Anatomy Section). On profile view, a thin vermilion is less convex than usual. A thin upper lip vermilion may be associated with a smooth philtrum an...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-019.png"
+      ]
+    },
+    {
+      "figure": 46,
+      "caption": "Broad philtrum. 1. Variations in length: long; short 2. Variations in width: broad; narrow 3. Variations in depths: smooth; deep 4. Unusual appearance: tented; malaligned philtral ridges; midline A...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-046.png"
+      ]
+    },
+    {
+      "figure": 53,
+      "caption": "Smooth philtrum. Please note that the facial movement in patient depicted in the lower panel gives the false impression of a smooth philtrum as becomes clear in the same patient with a neutral expr...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-053.png"
+      ]
+    }
+  ],
+  "Broad Philtrum": [
+    {
+      "figure": 46,
+      "caption": "Broad philtrum. 1. Variations in length: long; short 2. Variations in width: broad; narrow 3. Variations in depths: smooth; deep 4. Unusual appearance: tented; malaligned philtral ridges; midline A...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-046.png"
+      ]
+    }
+  ],
+  "Thin Vermilion Lower Lip": [
     {
       "figure": 6,
       "caption": "Freckling of the vermilion of the lower lip.",
@@ -121,91 +871,11 @@
       ]
     }
   ],
-  "Vermilion, Upper Lip, Everted": [
-    {
-      "figure": 4,
-      "caption": "Absent Cupid’s bow. This feature is often associated with a thin vermilion of the upper lip as in this child.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-004.png"
-      ]
-    },
-    {
-      "figure": 11,
-      "caption": "Everted vermilion of the lower lip. The designation hypoplastic pouting lower lip is sometimes used but this is a functional term.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-011.png"
-      ]
-    },
-    {
-      "figure": 14,
-      "caption": "Everted vermilion of the upper lip.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-014.png"
-      ]
-    },
-    {
-      "figure": 15,
-      "caption": "Tented vermilion of the upper lip. inferior border of the vermilion is less curved, and on a profile view, the lower lip vermilion is less convex than usual.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-015.png"
-      ]
-    },
-    {
-      "figure": 16,
-      "caption": "Thick vermilion of the upper lip. This is the preferred may be visible. On profile view, the vermilion is more convex than designation rather than coarse or full lip since the usual. An everted upp...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-016.png"
-      ]
-    },
-    {
-      "figure": 17,
-      "caption": "This figure displays the commonly used Likert scale, 1–5, that ranges from the Thick vermilion of the upper lip (1) to Thin vermilion; in a Caucasian (A) and an African-American (B) (see text). Not...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-017.png"
-      ]
-    },
-    {
-      "figure": 19,
-      "caption": "Fibrous syngnathia. See Oral synechiae as well. Anatomy Section). On profile view, a thin vermilion is less convex than usual. A thin upper lip vermilion may be associated with a smooth philtrum an...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-019.png"
-      ]
-    },
-    {
-      "figure": 18,
-      "caption": "Thin vermilion of the upper lip. Note the absent Cupid’s bow as well. Microstomia: see Mouth, narrow Mouth, carp: see Mouth, downturned corners of 15524833, 2009, 1, Downloaded from https://onlinel...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-018.png"
-      ]
-    },
+  "U-Shaped Vermilion Upper Lip": [
     {
       "figure": 27,
       "caption": "U-shaped vermilion of the upper lip. Note the contour of the vermilion and the shape of the oral aperture.",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "match_type": "partial",
       "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
       "images": [
@@ -215,131 +885,15 @@
     {
       "figure": 25,
       "caption": "Accessory oral frenulum of the lower (A) and upper version of the Tented upper lip vermilion. In U-shaped upper lips (B) in different patients. vermilion there is loss of the central groove of the ...",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "match_type": "partial",
       "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
       "images": [
         "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-025.png"
       ]
-    },
-    {
-      "figure": 49,
-      "caption": "Midline raphe of the philtrum. Apparently decreased distance between nasal base and midline upper lip vermilion border. subjective 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-049.png"
-      ]
     }
   ],
-  "Nasolabial Fold, Prominent": [
-    {
-      "figure": 8,
-      "caption": "Prominent nasolabial fold.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-008.png"
-      ]
-    },
-    {
-      "figure": 51,
-      "caption": "Midface prominence. Note prominence of the Nasolabial crease, prominent: See Nasolabial fold, prominent infraorbital and perialar regions leading to more pronounced convexity of the face and increa...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-051.png"
-      ]
-    },
-    {
-      "figure": 53,
-      "caption": "Nasolabial fold, prominent. The crease or fold of skin running from the lateral margin of the nose, where nasal base meets the skin of the face, to a point just lateral to the corner of the mouth i...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-053.png"
-      ]
-    }
-  ],
-  "Nasolabial Fold, Underdeveloped": [
-    {
-      "figure": 9,
-      "caption": "Underdeveloped nasolabial fold. available [Farkas, 1981] but measurements are not commonly used. Most clinicians determine this feature subjectively. The lower lip is 15524833, 2009, 1, Downloaded ...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-009.png"
-      ]
-    },
-    {
-      "figure": 9,
-      "caption": "Underdeveloped nasolabial fold. available [Farkas, 1981] but measurements are not commonly used. Most clinicians determine this feature subjectively. The lower lip is 15524833, 2009, 1, Downloaded ...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-009.png"
-      ]
-    },
-    {
-      "figure": 54,
-      "caption": "Nasolabial fold, underdeveloped. The crease or fold of skin running from the lateral margin of the nose, where nasal base meets the skin of the face, to a point just lateral to the corner of the mo...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-054.png"
-      ]
-    },
-    {
-      "figure": 54,
-      "caption": "Nasolabial fold, underdeveloped. The crease or fold of skin running from the lateral margin of the nose, where nasal base meets the skin of the face, to a point just lateral to the corner of the mo...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-054.png"
-      ]
-    }
-  ],
-  "Philtrum, Smooth": [
-    {
-      "figure": 19,
-      "caption": "Fibrous syngnathia. See Oral synechiae as well. Anatomy Section). On profile view, a thin vermilion is less convex than usual. A thin upper lip vermilion may be associated with a smooth philtrum an...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-019.png"
-      ]
-    },
-    {
-      "figure": 46,
-      "caption": "Broad philtrum. 1. Variations in length: long; short 2. Variations in width: broad; narrow 3. Variations in depths: smooth; deep 4. Unusual appearance: tented; malaligned philtral ridges; midline A...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-046.png"
-      ]
-    },
-    {
-      "figure": 53,
-      "caption": "Smooth philtrum. Please note that the facial movement in patient depicted in the lower panel gives the false impression of a smooth philtrum as becomes clear in the same patient with a neutral expr...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-053.png"
-      ]
-    }
-  ],
-  "Mouth, Downturned Corners of": [
+  "Downturned Corners of Mouth": [
     {
       "figure": 18,
       "caption": "Thin vermilion of the upper lip. Note the absent Cupid’s bow as well. Microstomia: see Mouth, narrow Mouth, carp: see Mouth, downturned corners of 15524833, 2009, 1, Downloaded from https://onlinel...",
@@ -371,7 +925,7 @@
       ]
     }
   ],
-  "Mouth, Narrow": [
+  "Narrow Mouth": [
     {
       "figure": 18,
       "caption": "Thin vermilion of the upper lip. Note the absent Cupid’s bow as well. Microstomia: see Mouth, narrow Mouth, carp: see Mouth, downturned corners of 15524833, 2009, 1, Downloaded from https://onlinel...",
@@ -393,29 +947,29 @@
       ]
     }
   ],
-  "Vermilion, Upper Lip, U-Shaped": [
+  "Small Tongue": [
     {
-      "figure": 27,
-      "caption": "U-shaped vermilion of the upper lip. Note the contour of the vermilion and the shape of the oral aperture.",
-      "confidence": 0.8,
-      "match_type": "partial",
+      "figure": 50,
+      "caption": "Smooth tongue. Note the surface of the tongue in this patient. Tongue, rudimentary: see Tongue, small Tongue, scrotal: see Tongue, furrowed",
+      "confidence": 1.0,
+      "match_type": "exact",
       "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-027.png"
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-050.png"
       ]
     },
     {
-      "figure": 25,
-      "caption": "Accessory oral frenulum of the lower (A) and upper version of the Tented upper lip vermilion. In U-shaped upper lips (B) in different patients. vermilion there is loss of the central groove of the ...",
-      "confidence": 0.8,
+      "figure": 49,
+      "caption": "Small tongue. teeth usually precedes the mean age of eruption of each tooth by a year or less. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32602 by Spanish...",
+      "confidence": 1.0,
       "match_type": "partial",
       "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-025.png"
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-049.png"
       ]
     }
   ],
-  "Central Incisor, Single Maxillary": [
+  "Single Maxillary Central Incisor": [
     {
       "figure": 30,
       "caption": "A single central maxillary incisor. The lateral Comment: There are established norms for the timing of erup- incisors are normal making the recognition of this feature tion in both deciduous and pe...",
@@ -449,7 +1003,7 @@
       ]
     }
   ],
-  "Tongue, Furrowed": [
+  "Furrowed Tongue": [
     {
       "figure": 45,
       "caption": "Furrowed tongue. FIG. 47. Lobulated tongue. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32602 by Spanish Cochrane National Provision (Ministerio de Sanidad...",
@@ -471,63 +1025,7 @@
       ]
     }
   ],
-  "Tongue, Protruding Tongue, Smooth": [
-    {
-      "figure": 48,
-      "caption": "Protruding tongue. Note the position of the tongue.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-048.png"
-      ]
-    },
-    {
-      "figure": 50,
-      "caption": "Smooth tongue. Note the surface of the tongue in this patient. Tongue, rudimentary: see Tongue, small Tongue, scrotal: see Tongue, furrowed",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-050.png"
-      ]
-    }
-  ],
-  "Tongue, Small": [
-    {
-      "figure": 50,
-      "caption": "Smooth tongue. Note the surface of the tongue in this patient. Tongue, rudimentary: see Tongue, small Tongue, scrotal: see Tongue, furrowed",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-050.png"
-      ]
-    },
-    {
-      "figure": 49,
-      "caption": "Small tongue. teeth usually precedes the mean age of eruption of each tooth by a year or less. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32602 by Spanish...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-049.png"
-      ]
-    }
-  ],
-  "Uvula, Broad": [
-    {
-      "figure": 54,
-      "caption": "Broad uvula. (Figure courtesy of Robert Shprintzen.)",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-054.png"
-      ]
-    }
-  ],
-  "Tooth, Supernumerary": [
+  "Supernumerary Tooth": [
     {
       "figure": 52,
       "caption": "Supernumerary tooth. Note the extra central incisor Uvula, bifid: see Uvula, cleft between the other incisors. Also there are some widely spaced teeth in the lower arch. (Figure courtesy of Duane Y...",
@@ -539,7 +1037,7 @@
       ]
     }
   ],
-  "Uvula, Absent": [
+  "Absent Uvula": [
     {
       "figure": 53,
       "caption": "Absent uvula. (Figure courtesy of Robert Shprintzen.)",
@@ -551,287 +1049,7 @@
       ]
     }
   ],
-  "Uvula, Narrow": [
-    {
-      "figure": 57,
-      "caption": "Narrow uvula. (Figure courtesy of Robert Shprintzen.) Gorlin RG, Cohen MMC, Hennekam RC. 2001. Syndromes of the head and neck. Oxford: Oxford Press. Hall JG, Froster-Iskenius UG, Allanson JE, Gripp...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-057.png"
-      ]
-    }
-  ],
-  "Columella, Broad": [
-    {
-      "figure": 7,
-      "caption": "Broad columella. Please note that in the right panel Columella, rounded: see Columella, low hanging not only the columella is broad but there are also soft tissue swellings on each side of the colu...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-007.png"
-      ]
-    }
-  ],
-  "Columella, High Insertion": [
-    {
-      "figure": 8,
-      "caption": "High insertion of the columella. Note that it is usually columella’’ has been deleted because a columella is thought to impossible to determine whether the alar attachment to always be present, exc...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-008.png"
-      ]
-    }
-  ],
-  "Naris, Single": [
-    {
-      "figure": 16,
-      "caption": "Single naris. Note positioning in the midline in left",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-016.png"
-      ]
-    }
-  ],
-  "Nasal Tip, Overhanging": [
-    {
-      "figure": 19,
-      "caption": "Wide nasal base. Please note that in the right panel the picture is taken slightly from above allowing the overhanging nasal tip to obscure almost completely the broad nasal base, so this would not...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-019.png"
-      ]
-    },
-    {
-      "figure": 35,
-      "caption": "Overhanging nasal tip. Please note that this feature should be evaluated from the side and can only be appreciated in a frontal view when very expressed as in the left panel. FIG. 38. Bulbous nose....",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-035.png"
-      ]
-    }
-  ],
-  "Nasal Bridge, Narrow subjective": [
-    {
-      "figure": 21,
-      "caption": "Narrow nasal bridge. Sometimes just the nasal bridge is narrow, like in the middle panel, and sometimes both nasal bridge and ridge are narrow, like in the right FIG. 23. Wide nasal bridge. panel.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-021.png"
-      ]
-    },
-    {
-      "figure": 28,
-      "caption": "Narrow nasal ridge. Note that there is also a narrow nasal bridge and narrow nasal base, so the nose in total is narrow.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-028.png"
-      ]
-    },
-    {
-      "figure": 30,
-      "caption": "Bifid nasal tip. Please note than in the middle and right panel the nasal bridge, ridge and base are also broad. Definition: Nasal tip positioned to one side of the midline (Fig. 33). subjective Co...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-030.png"
-      ]
-    },
-    {
-      "figure": 34,
-      "caption": "Narrow nasal tip. Please note that in left panel the Definition: Visually assessable vertical indentation, cleft, or depres- nasal bridge and ridge are broad and only the tip is narrow, sion of the...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-034.png"
-      ]
-    }
-  ],
-  "Nasal Ridge, Concave": [
-    {
-      "figure": 25,
-      "caption": "Concave nasal ridge. Please note the concave nasal Nasal ridge, recessed: see Nasal ridge, depressed ridge goes along with anteverted nares in the left two Nasal ridge, retruded: see Nasal ridge, d...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-025.png"
-      ]
-    }
-  ],
-  "Nasal Ridge, Convex": [
-    {
-      "figure": 26,
-      "caption": "Convex nasal profile. The nose appears often also prominent, and the columella low. sion of a Depressed nasal ridge, but this should be assessed in profile and separately coded. Marked widening of ...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-026.png"
-      ]
-    }
-  ],
-  "Nasal Tip, Bifid": [
-    {
-      "figure": 30,
-      "caption": "Bifid nasal tip. Please note than in the middle and right panel the nasal bridge, ridge and base are also broad. Definition: Nasal tip positioned to one side of the midline (Fig. 33). subjective Co...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-030.png"
-      ]
-    },
-    {
-      "figure": 37,
-      "caption": "Bifid nose. Nasal tip, retruded: see Nasal tip, depressed Nasal tip, upturned: see Nares, anteverted Nasal tip, wide: see Nasal tip, broad Nose, Bulbous Definition: Increased volume and globular sh...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-037.png"
-      ]
-    }
-  ],
-  "Philtrum, Broad": [
-    {
-      "figure": 46,
-      "caption": "Broad philtrum. 1. Variations in length: long; short 2. Variations in width: broad; narrow 3. Variations in depths: smooth; deep 4. Unusual appearance: tented; malaligned philtral ridges; midline A...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-046.png"
-      ]
-    }
-  ],
-  "Philtrum, Long": [
-    {
-      "figure": 46,
-      "caption": "Broad philtrum. 1. Variations in length: long; short 2. Variations in width: broad; narrow 3. Variations in depths: smooth; deep 4. Unusual appearance: tented; malaligned philtral ridges; midline A...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-046.png"
-      ]
-    },
-    {
-      "figure": 48,
-      "caption": "Long philtrum. Please note that the length of the Philtrum prominent: see Philtrum, deep philtrum here is increased in an absolute sense. For an adequate subjective evaluation one needs the nasal l...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-048.png"
-      ]
-    }
-  ],
-  "Philtrum, Midline Raphe": [
-    {
-      "figure": 49,
-      "caption": "Midline raphe of the philtrum. Apparently decreased distance between nasal base and midline upper lip vermilion border. subjective 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_nose_and_philtrum-049.png"
-      ]
-    }
-  ],
-  "Clinodactyly": [
-    {
-      "figure": 3,
-      "caption": "Clinodactyly, radial, F5, bilateral. This person also distal phalanx of has Short finger, F5, bilateral. See also Figures 13 and 20.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-003.png"
-      ]
-    },
-    {
-      "figure": 12,
-      "caption": "Partial absence of fingers, left hand, F2–5, do not rest on top of adjacent fingers should be coded as proximal. Note that this patient also has Small nails, F1–5. Clinodactyly.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-012.png"
-      ]
-    },
-    {
-      "figure": 13,
-      "caption": "Radial deviation of the finger, left hand, F2. Note term it may be small, but present. Distal phalangeal lengths can be that this patient also has Clinodactyly, F2, radial and that assessed subject...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-013.png"
-      ]
-    },
-    {
-      "figure": 20,
-      "caption": "Ulnar deviation of finger, right hand, F4. Note that this patient also has Clinodactyly of F4, ulnar. Note that Foot, Absent his middle finger manifests Clinodactyly radial, F3, but that this finge...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-020.png"
-      ]
-    },
-    {
-      "figure": 48,
-      "caption": "A: Macrodactyly of F2-3, left hand. Note that this person also has Clinodactyly, but that finding should be coded separately. B: Macrodactyly of T1-2, right foot. This patient also has Widely space...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-048.png"
-      ]
-    }
-  ],
-  "Camptodactyly": [
-    {
-      "figure": 2,
-      "caption": "Camptodactyly of F45, bilateral.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-002.png"
-      ]
-    }
-  ],
-  "Digital Constriction Ring": [
-    {
-      "figure": 6,
-      "caption": "Digital constriction rings, left hand, F1–5, near MCPJ. Digit: See various terms under ‘‘finger’’ or ‘‘toe’’ instead of digit",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-006.png"
-      ]
-    }
-  ],
-  "Hand, Absent": [
+  "Absent Hand": [
     {
       "figure": 7,
       "caption": "Finger, absent, right hand. Note here that the Replaces: Amniotic bands identity of the missing digit is not specified, as there are no clinical data to allow this to be determined. See also Ectrod...",
@@ -893,7 +1111,53 @@
       ]
     }
   ],
-  "Hand, Small": [
+  "Narrow Uvula": [
+    {
+      "figure": 57,
+      "caption": "Narrow uvula. (Figure courtesy of Robert Shprintzen.) Gorlin RG, Cohen MMC, Hennekam RC. 2001. Syndromes of the head and neck. Oxford: Oxford Press. Hall JG, Froster-Iskenius UG, Allanson JE, Gripp...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-057.png"
+      ]
+    }
+  ],
+  "Broad Uvula": [
+    {
+      "figure": 54,
+      "caption": "Broad uvula. (Figure courtesy of Robert Shprintzen.)",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-054.png"
+      ]
+    }
+  ],
+  "Protruding Tongue": [
+    {
+      "figure": 48,
+      "caption": "Protruding tongue. Note the position of the tongue.",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-048.png"
+      ]
+    },
+    {
+      "figure": 50,
+      "caption": "Smooth tongue. Note the surface of the tongue in this patient. Tongue, rudimentary: see Tongue, small Tongue, scrotal: see Tongue, furrowed",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_lips_mouth_and_oral_region-050.png"
+      ]
+    }
+  ],
+  "Small Hand": [
     {
       "figure": 8,
       "caption": "Broad fingers, right hand. Appreciate that the dorsal–ventral dimension of these digits is not increased, whereas the lateral (proximo-distal) dimension is Finger, hypoplastic: See Finger, small in...",
@@ -985,41 +1249,19 @@
       ]
     }
   ],
-  "Fingers, Overlapping": [
+  "Camptodactyly": [
     {
-      "figure": 11,
-      "caption": "A: Overlapping fingers, right hand, F54, F56. Note that this patient also has Mesoaxial polydactyly and Postaxial polydactyly, type B. B: Overlapping fingers, right used, as it is a bundled definit...",
+      "figure": 2,
+      "caption": "Camptodactyly of F45, bilateral.",
       "confidence": 1.0,
-      "match_type": "partial",
+      "match_type": "exact",
       "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-011.png"
-      ]
-    },
-    {
-      "figure": 45,
-      "caption": "Ulnar deviation of the right hand. Note that this deviation of fingers F2–3. patient also has Ulnar deviation of the fingers, F2–3 and Overlapping fingers F45.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-045.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-002.png"
       ]
     }
   ],
-  "Finger, Ulnar Deviation of": [
-    {
-      "figure": 20,
-      "caption": "Ulnar deviation of finger, right hand, F4. Note that this patient also has Clinodactyly of F4, ulnar. Note that Foot, Absent his middle finger manifests Clinodactyly radial, F3, but that this finge...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-020.png"
-      ]
-    }
-  ],
-  "Hand, Ulnar Deviation of": [
+  "Ulnar Deviation of Hand": [
     {
       "figure": 20,
       "caption": "Ulnar deviation of finger, right hand, F4. Note that this patient also has Clinodactyly of F4, ulnar. Note that Foot, Absent his middle finger manifests Clinodactyly radial, F3, but that this finge...",
@@ -1041,41 +1283,19 @@
       ]
     }
   ],
-  "Foot, Preaxial Polydactyly of": [
+  "Digital Constriction Ring": [
     {
-      "figure": 29,
-      "caption": "A: Preaxial polydactyly of the right foot. Note that this duplication is nearly complete. B: Preaxial polydactyly of the right foot. This patient has the same finding, but the duplicated digits are...",
-      "confidence": 0.75,
-      "match_type": "partial",
+      "figure": 6,
+      "caption": "Digital constriction rings, left hand, F1–5, near MCPJ. Digit: See various terms under ‘‘finger’’ or ‘‘toe’’ instead of digit",
+      "confidence": 1.0,
+      "match_type": "exact",
       "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-029.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-006.png"
       ]
     }
   ],
-  "Hallux, Absent": [
-    {
-      "figure": 33,
-      "caption": "Absent hallux, right.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-033.png"
-      ]
-    },
-    {
-      "figure": 34,
-      "caption": "Broad hallux, right. See also Figure 60B. from loss of digits 2–5. When a great toe and one or more other toes are absent, it may be more economical to specify Absent toes, T1–3 instead of separate...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-034.png"
-      ]
-    }
-  ],
-  "Foot, Split": [
+  "Split Foot": [
     {
       "figure": 32,
       "caption": "A: Split foot, left. B: Split feet. Note that this patient has a more severe, deeper notch in the feet than does the patient in (A). The shape and numbers of other affected digits is highly variable.",
@@ -1099,25 +1319,123 @@
       ]
     }
   ],
-  "Thenar Eminence, Small": [
+  "Partial Absence of Finger": [
     {
-      "figure": 44,
-      "caption": "Trident hand, left. Note that this patient also has Tapered fingers, but that is not required for the finding. Hypothenar Eminence, Small Definition: Reduced muscle mass on the ulnar side of the pa...",
+      "figure": 68,
+      "caption": "Thumb, partial absence of, right. Note that this patient also has Absent fingers, F2–4, and Absent finger Thumb, digitalized: See Thumb, triphalangeal F5, partial.",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-068.png"
+      ]
+    }
+  ],
+  "Clinodactyly": [
+    {
+      "figure": 3,
+      "caption": "Clinodactyly, radial, F5, bilateral. This person also distal phalanx of has Short finger, F5, bilateral. See also Figures 13 and 20.",
       "confidence": 1.0,
       "match_type": "exact",
       "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-044.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-003.png"
       ]
     },
     {
-      "figure": 63,
-      "caption": "Small Thenar eminence right hand. Note that this base of F2 or F3. person also has Clubbing (visible in the thumb only). This patient also has Long palm, right hand. Thumb, Broad Definition: Increa...",
+      "figure": 12,
+      "caption": "Partial absence of fingers, left hand, F2–5, do not rest on top of adjacent fingers should be coded as proximal. Note that this patient also has Small nails, F1–5. Clinodactyly.",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-012.png"
+      ]
+    },
+    {
+      "figure": 13,
+      "caption": "Radial deviation of the finger, left hand, F2. Note term it may be small, but present. Distal phalangeal lengths can be that this patient also has Clinodactyly, F2, radial and that assessed subject...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-013.png"
+      ]
+    },
+    {
+      "figure": 20,
+      "caption": "Ulnar deviation of finger, right hand, F4. Note that this patient also has Clinodactyly of F4, ulnar. Note that Foot, Absent his middle finger manifests Clinodactyly radial, F3, but that this finge...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-020.png"
+      ]
+    },
+    {
+      "figure": 48,
+      "caption": "A: Macrodactyly of F2-3, left hand. Note that this person also has Clinodactyly, but that finding should be coded separately. B: Macrodactyly of T1-2, right foot. This patient also has Widely space...",
+      "confidence": 1.0,
+      "match_type": "exact",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-048.png"
+      ]
+    }
+  ],
+  "Overlapping Fingers": [
+    {
+      "figure": 11,
+      "caption": "A: Overlapping fingers, right hand, F54, F56. Note that this patient also has Mesoaxial polydactyly and Postaxial polydactyly, type B. B: Overlapping fingers, right used, as it is a bundled definit...",
       "confidence": 1.0,
       "match_type": "partial",
       "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-063.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-011.png"
+      ]
+    },
+    {
+      "figure": 45,
+      "caption": "Ulnar deviation of the right hand. Note that this deviation of fingers F2–3. patient also has Ulnar deviation of the fingers, F2–3 and Overlapping fingers F45.",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-045.png"
+      ]
+    }
+  ],
+  "Ulnar Deviation of Finger": [
+    {
+      "figure": 20,
+      "caption": "Ulnar deviation of finger, right hand, F4. Note that this patient also has Clinodactyly of F4, ulnar. Note that Foot, Absent his middle finger manifests Clinodactyly radial, F3, but that this finge...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-020.png"
+      ]
+    }
+  ],
+  "Absent Hallux": [
+    {
+      "figure": 33,
+      "caption": "Absent hallux, right.",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-033.png"
+      ]
+    },
+    {
+      "figure": 34,
+      "caption": "Broad hallux, right. See also Figure 60B. from loss of digits 2–5. When a great toe and one or more other toes are absent, it may be more economical to specify Absent toes, T1–3 instead of separate...",
+      "confidence": 1.0,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-034.png"
       ]
     }
   ],
@@ -1143,7 +1461,19 @@
       ]
     }
   ],
-  "Palm, Broad": [
+  "Preaxial Polydactyly of Foot": [
+    {
+      "figure": 29,
+      "caption": "A: Preaxial polydactyly of the right foot. Note that this duplication is nearly complete. B: Preaxial polydactyly of the right foot. This patient has the same finding, but the duplicated digits are...",
+      "confidence": 0.75,
+      "match_type": "partial",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
+      "images": [
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-029.png"
+      ]
+    }
+  ],
+  "Broad Palm": [
     {
       "figure": 52,
       "caption": "Broad palm, left. Note that this patient had normal palm length, so that this is not an example of a short palm with only an apparently broad palm. Metatarsus Adductus Definition: The metatarsals a...",
@@ -1165,29 +1495,19 @@
       ]
     }
   ],
-  "Palm, Short": [
+  "Prominent Heel": [
     {
-      "figure": 52,
-      "caption": "Broad palm, left. Note that this patient had normal palm length, so that this is not an example of a short palm with only an apparently broad palm. Metatarsus Adductus Definition: The metatarsals a...",
+      "figure": 62,
+      "caption": "Convex contour of the sole right foot. Note the heel F2–5. The term ‘‘oligodactyly’’ is replaced because oligodactyly in this patient is not sufficiently prominent to warrant the refers to the digi...",
       "confidence": 1.0,
       "match_type": "partial",
       "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-052.png"
-      ]
-    },
-    {
-      "figure": 55,
-      "caption": "Short palms. Note that this patient also has Short Comment: Palm width is measured across the palm at the level of fingers. This patient does not warrant a finding of Small the MCPJ (radial aspect ...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-055.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-062.png"
       ]
     }
   ],
-  "Palm, Narrow": [
+  "Narrow Palm": [
     {
       "figure": 53,
       "caption": "Long palms. Note that this patient had normal palm The width of the palm appears disproportionately wide for the width, so that this is not an example of a narrow palm with length. subjective only ...",
@@ -1209,884 +1529,3337 @@
       ]
     }
   ],
-  "Heel, Prominent": [
+  "Short Palm": [
     {
-      "figure": 62,
-      "caption": "Convex contour of the sole right foot. Note the heel F2–5. The term ‘‘oligodactyly’’ is replaced because oligodactyly in this patient is not sufficiently prominent to warrant the refers to the digi...",
+      "figure": 52,
+      "caption": "Broad palm, left. Note that this patient had normal palm length, so that this is not an example of a short palm with only an apparently broad palm. Metatarsus Adductus Definition: The metatarsals a...",
       "confidence": 1.0,
       "match_type": "partial",
       "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-062.png"
-      ]
-    }
-  ],
-  "Thumb, Hitchhiker": [
-    {
-      "figure": 65,
-      "caption": "Thumb, adducted, right. FIG. 67. Hitchhiker thumb, right.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-065.png"
-      ]
-    }
-  ],
-  "Finger, Partial Absence of": [
-    {
-      "figure": 68,
-      "caption": "Thumb, partial absence of, right. Note that this patient also has Absent fingers, F2–4, and Absent finger Thumb, digitalized: See Thumb, triphalangeal F5, partial.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-068.png"
-      ]
-    }
-  ],
-  "Thumb, Triphalangeal": [
-    {
-      "figure": 68,
-      "caption": "Thumb, partial absence of, right. Note that this patient also has Absent fingers, F2–4, and Absent finger Thumb, digitalized: See Thumb, triphalangeal F5, partial.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-068.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-052.png"
       ]
     },
-    {
-      "figure": 70,
-      "caption": "Triphalangeal thumb, right. foot that does not meet the prior objective criteria. subjective Comment: The digits (or part of) are joined together by soft tissue that is not normally present between...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-070.png"
-      ]
-    }
-  ],
-  "Toe, Slender": [
-    {
-      "figure": 73,
-      "caption": "A: Cutaneous syndactyly of the toes, complete, Toe, narrow: See Toe, slender TT1–6, left. See also Figures 58B, 59, 78, 92, 94, and 101. Note that his patient also has Preaxial polydactyly of the T...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-073.png"
-      ]
-    },
-    {
-      "figure": 80,
-      "caption": "Small toe, T1, left foot. See also Figure 81. Toe, Slender Definition: Digits are disproportionately narrow (reduced girth) for the hand/foot size or build of the individual (Fig. 79). subjective T...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-080.png"
-      ]
-    },
-    {
-      "figure": 79,
-      "caption": "Slender toes, T2–5, right foot. Note that this patient Toe, Tapered also has Long toes T1–5. Definition: The gradual reduction in girth of the digit from proximal to distal (Fig. 82). subjective 15...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-079.png"
-      ]
-    }
-  ],
-  "Toe, Partial Absence of": [
-    {
-      "figure": 76,
-      "caption": "Toes, partial absence of, right foot, T2,4. Note that subjectively by comparing that digit segment to the rest of the digit, this is the same image as in Figure 82, Toe, tapered. to other normal di...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-076.png"
-      ]
-    },
-    {
-      "figure": 82,
-      "caption": "Toe, tapered, T5. Note that this is the same image as in Figure 76, Toe, partial absence. proximal transverse crease begins on the radial (anterior) side of the palm in the first interdigital space...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-082.png"
-      ]
-    }
-  ],
-  "Toes, Widely Spaced": [
-    {
-      "figure": 81,
-      "caption": "Splayed toes, T23 right foot, T12, left foot. Note that this finding differs from Toes, widely spaced, because in splayed toes the toes have a divergent axis of orientation. This patient also has S...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-081.png"
-      ]
-    },
-    {
-      "figure": 83,
-      "caption": "Toes, widely spaced, T1,2, T4,5. Note that this (Fig. 85). subjective patient also has Macrodactyly of T1,2. Comment: This term is not used to describe the ‘‘missing’’ crease in the case of a patie...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-083.png"
-      ]
-    }
-  ],
-  "Palmar Creases, Decreased": [
-    {
-      "figure": 87,
-      "caption": "Palmar creases, decreased, right hand. Definition: A crease that connects the proximal and distal trans- verse palmar creases (Fig. 86). objective Comment: The crease that connects the two transver...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-087.png"
-      ]
-    }
-  ],
-  "Palmar Crease, Deep": [
-    {
-      "figure": 89,
-      "caption": "Single transverse palmar crease, right hand. See also ment requires an experienced observer to distinguish this from Figures 5 and 85. common crease variation. One view is that deep creases are tho...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-089.png"
-      ]
-    }
-  ],
-  "Chordee": [
-    {
-      "figure": 6,
-      "caption": "Chordee. Courtesy of Dr. Montasser El-Koutby. Reprinted with permission from El-Koutby and El Gohary [2010]. Author Manuscript",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_external_genitalia",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_external_genitalia-006.png"
-      ]
-    },
-    {
-      "figure": 6,
-      "caption": "Chordee. Courtesy of Dr. Montasser El-Koutby. Reprinted with permission from El-Koutby and El Gohary [2010].",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
-      "images": [
-        "hennekam_et_al_2013_elements_of_morphology-006.png"
-      ]
-    }
-  ],
-  "Hypospadias": [
-    {
-      "figure": 14,
-      "caption": "Various forms of hypospadias. There are various classification systems (see text). Author Manuscript Author Manuscript",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_external_genitalia",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_external_genitalia-014.png"
-      ]
-    },
-    {
-      "figure": 14,
-      "caption": "Various forms of hypospadias. There are various classification systems (see text). Penis, duplicated: See Penis, bifid Penis, hyperplastic: See Penis, long 1246 AMERICAN JOURNAL OF MEDICAL GENETICS...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
-      "images": [
-        "hennekam_et_al_2013_elements_of_morphology-014.png"
-      ]
-    },
-    {
-      "figure": 41,
-      "caption": "Hypospadias (a catheter being in hypospadiac opening high in the anterior vaginal wall). Courtesy of Dr. Amilal Bhat.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
-      "images": [
-        "hennekam_et_al_2013_elements_of_morphology-041.png"
-      ]
-    }
-  ],
-  "Antihelix, Absent Antihelix, Angulated": [
-    {
-      "figure": 3,
-      "caption": "Anatomy of antihelix. FIG. 5. Absent antihelix. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Ministerio de San...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-003.png"
-      ]
-    },
-    {
-      "figure": 7,
-      "caption": "Angulated antihelix. Note also the presence of a bifid FIG. 9. Prominent and underdeveloped inferior crus of lobe in the left panel. antihelix. a: Underdeveloped. b: Average. c: Prominent. 15524833...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-007.png"
-      ]
-    },
-    {
-      "figure": 12,
-      "caption": "Prominent and underdeveloped superior crus of antihelix. a: Absent, very indistinct. b: Slightly indistinct. c: Average. d: Slightly more distinct. e: Very distinct, sharp.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-012.png"
-      ]
-    }
-  ],
-  "Antihelix, Inferior Crus, Prominent Antihelix, Stem, Prominent": [
-    {
-      "figure": 7,
-      "caption": "Angulated antihelix. Note also the presence of a bifid FIG. 9. Prominent and underdeveloped inferior crus of lobe in the left panel. antihelix. a: Underdeveloped. b: Average. c: Prominent. 15524833...",
-      "confidence": 0.8571428571428571,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-007.png"
-      ]
-    },
-    {
-      "figure": 12,
-      "caption": "Prominent and underdeveloped superior crus of antihelix. a: Absent, very indistinct. b: Slightly indistinct. c: Average. d: Slightly more distinct. e: Very distinct, sharp.",
-      "confidence": 0.7142857142857143,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-012.png"
-      ]
-    }
-  ],
-  "Antihelix, Stem, Underdeveloped Antihelix, Superior Crus, Prominent": [
-    {
-      "figure": 7,
-      "caption": "Angulated antihelix. Note also the presence of a bifid FIG. 9. Prominent and underdeveloped inferior crus of lobe in the left panel. antihelix. a: Underdeveloped. b: Average. c: Prominent. 15524833...",
-      "confidence": 0.7142857142857143,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-007.png"
-      ]
-    },
-    {
-      "figure": 12,
-      "caption": "Prominent and underdeveloped superior crus of antihelix. a: Absent, very indistinct. b: Slightly indistinct. c: Average. d: Slightly more distinct. e: Very distinct, sharp.",
-      "confidence": 0.8571428571428571,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-012.png"
-      ]
-    }
-  ],
-  "Antitragus, Everted Antitragus, Prominent": [
-    {
-      "figure": 11,
-      "caption": "Serpiginous stem. Antitragus, double: see Antitragus, bifid Antitragus, enlarged: see Antitragus, prominent 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.325...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-011.png"
-      ]
-    },
-    {
-      "figure": 17,
-      "caption": "Prominent and underdeveloped antitragus. a:",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-017.png"
-      ]
-    },
-    {
-      "figure": 15,
-      "caption": "Bifid antitragus. Underdeveloped. b: Average. c: Prominent.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-015.png"
-      ]
-    },
-    {
-      "figure": 16,
-      "caption": "Everted antitragus. FIG. 18. Normal area of concha. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Ministerio de...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-016.png"
-      ]
-    }
-  ],
-  "Helix, Crus, Absent Helix, Crus, Prominent": [
-    {
-      "figure": 31,
-      "caption": "Cleft helix. In b, the term notched helix is also used. FIG. 33. Absent crus of helix.",
-      "confidence": 0.8333333333333334,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-031.png"
-      ]
-    },
-    {
-      "figure": 35,
-      "caption": "Expanded terminal portion of crus helix. Underdeveloped. b: Average. c: Prominent.",
-      "confidence": 0.8333333333333334,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-035.png"
-      ]
-    }
-  ],
-  "Helix, Crus, Expanded Terminal Portion": [
-    {
-      "figure": 35,
-      "caption": "Expanded terminal portion of crus helix. Underdeveloped. b: Average. c: Prominent.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-035.png"
-      ]
-    }
-  ],
-  "Helix, Crus, Horizontal": [
-    {
-      "figure": 36,
-      "caption": "Horizontal crus of helix. FIG. 38. Serpiginous crus of helix. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Min...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-036.png"
-      ]
-    }
-  ],
-  "Helix, Squared Superior Portion": [
-    {
-      "figure": 44,
-      "caption": "Squared superior portion of helix. FIG. 46. Normal anatomy of the lobe. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Prov...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-044.png"
-      ]
-    }
-  ],
-  "Satyr Ear": [
-    {
-      "figure": 63,
-      "caption": "Satyr ear. Stewart. 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32599 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library ...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_ear-063.png"
-      ]
-    }
-  ],
-  "Tragus, Duplicated Tragus, Prominent": [
-    {
-      "figure": 71,
-      "caption": "Degree of prominence of the tragus. a: Very underdeveloped. b: Mildly underdeveloped. c: Average. d: Prominent.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_ear",
-      "images": []
-    }
-  ],
-  "Forehead, Narrow Forehead, Sloping": [
-    {
-      "figure": 8,
-      "caption": "Microcephaly. Decreased size of the cranium is cranium. Differences in size are difficult to appreciate but accompanied by marked posterior sloping of the forehead. increased head size in this chil...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-008.png"
-      ]
-    },
-    {
-      "figure": 32,
-      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
-      ]
-    },
-    {
-      "figure": 36,
-      "caption": "Forehead, sloping. The anterior surface of the",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-036.png"
-      ]
-    },
-    {
-      "figure": 34,
-      "caption": "Forehead, narrow. Note the decreased distance forehead slopes posteriorly in an excessive manner. between the two sides of the forehead with narrowing at the temples.",
-      "confidence": 0.75,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-034.png"
-      ]
-    }
-  ],
-  "Microcephaly": [
-    {
-      "figure": 8,
-      "caption": "Microcephaly. Decreased size of the cranium is cranium. Differences in size are difficult to appreciate but accompanied by marked posterior sloping of the forehead. increased head size in this chil...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-008.png"
-      ]
-    }
-  ],
-  "Plagiocephaly": [
-    {
-      "figure": 11,
-      "caption": "Plagiocephaly. There is asymmetry of head shape: Note that one can see a combination of unilateral occipital",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-011.png"
-      ]
-    }
-  ],
-  "Occiput, Prominent": [
-    {
-      "figure": 10,
-      "caption": "Occiput, prominent. The posterior part of the skull flattening with ipsilateral frontal prominence, leading to shows increased convexity. rhomboid cranial shape or asymmetry of the posterior skull ...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-010.png"
-      ]
-    }
-  ],
-  "Skull, Cloverleaf": [
-    {
-      "figure": 12,
-      "caption": "Skull, Cloverleaf. The skull has a trilobar front or behind (Fig. 12). subjective configuration when viewed from the front or behind. Synonym: Kleeblattsch€adel",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-012.png"
-      ]
-    }
-  ],
-  "Hairline, High Anterior": [
-    {
-      "figure": 19,
-      "caption": "Hairline, high anterior. The high anterior hairline contributes to an appearance of tall forehead.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-019.png"
-      ]
-    }
-  ],
-  "Hair Whorl, Abnormal Position": [
-    {
-      "figure": 18,
-      "caption": "Hair whorl, abnormal position. The hair whorl is positioned postero-inferiorly than its usual location lateral to the midline and close to the vertex of the skull.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-018.png"
-      ]
-    }
-  ],
-  "Hairline, Low Anterior": [
-    {
-      "figure": 20,
-      "caption": "Hairline, low anterior. The low anterior hairline contributes to an appearance of short forehead. root of the nose), in the midline, more than two SD below the mean (Fig. 20a,b). objective OR 15524...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-020.png"
-      ]
-    },
-    {
-      "figure": 37,
-      "caption": "Forehead creases, vertical. Vertical soft tissue creases are noted in the midline of the forehead. These often extending from the hairline to the brow. Forehead, short: See Hairline, low anterior 1...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-037.png"
-      ]
-    }
-  ],
-  "Scalp Hair, Sparse": [
-    {
-      "figure": 22,
-      "caption": "Scalp hair, sparse. Hair density is reduced giving a calipers, with the tips firmly pressed against the inferomedial thinned appearance. surface of the angle of the mandible [Farkas, 1981]. Broad f...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-022.png"
-      ]
-    },
-    {
-      "figure": 25,
-      "caption": "Sparse eyelashes in a girl who also has some protruding ears. See also Figure 33. thinning of the lashes as well as Sparse eyebrows and sparse scalp hair. See also Figure 26.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-025.png"
-      ]
-    }
-  ],
-  "Face, Coarse": [
-    {
-      "figure": 25,
-      "caption": "Face, coarse. Facial features lack the usual fine and sharp appearance and are rounded and heavy with thickened skin, subcutaneous or bony tissues. Face, Long Definition: Facial height (length) is ...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-025.png"
-      ]
-    }
-  ],
-  "Face, Narrow": [
-    {
-      "figure": 28,
-      "caption": "Face, narrow. There is reduction in width of the upper and lower face. Without actual measurement it can be difficult to decide whether increased height or reduced width is real.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-028.png"
-      ]
-    },
-    {
-      "figure": 32,
-      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
-      ]
-    }
-  ],
-  "Face, Triangular": [
-    {
-      "figure": 32,
-      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
-      ]
-    }
-  ],
-  "Frontal Bossing": [
-    {
-      "figure": 32,
-      "caption": "Face, triangular. Facial contours are triangular in Forehead, bulging: See Forehead, prominent and Frontal bossing shape, with breadth at the temples tapering to a narrow chin. Forehead, high: See ...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-032.png"
-      ]
-    },
-    {
-      "figure": 38,
-      "caption": "Frontal bossing. There is bilateral bulging of the Definition: Linear vertical groove in the midline of the forehead, lateral aspects of the forehead with relative sparing of the extending from hai...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-038.png"
-      ]
-    }
-  ],
-  "Glabella, Depressed": [
-    {
-      "figure": 39,
-      "caption": "Glabella, depressed. Note the depression of the midline forehead between the supraorbital ridges.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-039.png"
-      ]
-    }
-  ],
-  "Cheekbone Underdevelopment": [
-    {
-      "figure": 46,
-      "caption": "Cheekbone underdevelopment. The cheekbones portion of the maxilla, contiguous with the lateral boundary of the overlying the zygoma of the temporal bone of the skull are nasal bridge. less prominen...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-046.png"
-      ]
-    },
-    {
-      "figure": 49,
-      "caption": "Malar flattening. Note the underdevelopment of bony tissues lateral to the nasal bridge extending from the inner corner of the eye to the medial aspect of the cheekbone.",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-049.png"
-      ]
-    }
-  ],
-  "Cheeks, Full": [
-    {
-      "figure": 47,
-      "caption": "Cheeks, full. Note the increased prominence or roundness of the soft tissues between the cheekbones Malar hypoplasia: See Malar flattening and mandible. Malar Prominence Definition: Prominence of t...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-047.png"
-      ]
-    }
-  ],
-  "Midface Prominence": [
-    {
-      "figure": 51,
-      "caption": "Midface prominence. Note prominence of the Nasolabial crease, prominent: See Nasolabial fold, prominent infraorbital and perialar regions leading to more pronounced convexity of the face and increa...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-051.png"
-      ]
-    }
-  ],
-  "Premaxillary Prominence": [
     {
       "figure": 55,
-      "caption": "Premaxillary prominence. Note increased convexity from the lateral margin of the nose, where nasal base meets the skin of the face and an increased nasolabial angle giving the of the face, to a poi...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-055.png"
-      ]
-    }
-  ],
-  "Micrognathia Retrognathia": [
-    {
-      "figure": 62,
-      "caption": "Retrognathia. The lower jaw is set back from the Micrognathism: See Micrognathia plane of the face. Prognathia: See Prognathism",
+      "caption": "Short palms. Note that this patient also has Short Comment: Palm width is measured across the palm at the level of fingers. This patient does not warrant a finding of Small the MCPJ (radial aspect ...",
       "confidence": 1.0,
       "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
+      "document": "elements_of_morphology_standard_terminology_for_the_hands_and_feet",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-062.png"
+        "elements_of_morphology_standard_terminology_for_the_hands_and_feet-055.png"
       ]
     }
   ],
-  "Prognathism": [
+  "Turricephaly": [
     {
-      "figure": 62,
-      "caption": "Retrognathia. The lower jaw is set back from the Micrognathism: See Micrognathia plane of the face. Prognathia: See Prognathism",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-062.png"
-      ]
-    },
-    {
-      "figure": 61,
-      "caption": "Prognathism. There is anterior protrusion of the usual. mandible such that the alveolar ridge extends beyond the vertical plane of the maxillary alveolar ridge. Chin, cleft: See Chin, vertical crea...",
+        "nih_Turricephaly-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Turricephaly",
       "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-061.png"
-      ]
+      "match_type": "nih_website"
     }
   ],
-  "Chin, Vertical Crease": [
+  "Frontal Upsweep Hair": [
     {
-      "figure": 70,
-      "caption": "Chin, vertical crease. Note the vertical crease in the fat pad of the chin.",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-070.png"
-      ]
+        "nih_Hair_Frontal_Upsweep-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Frontal Upsweep Hair",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Neck Webbing": [
+  "Frontal Balding": [
     {
-      "figure": 72,
-      "caption": "Neck, long. Note the increased distance from the point where neck and shoulders meet to the inferior FIG. 74. Neck webbing. Note the bilateral folds of skin on the margin of the occipital bone. pos...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_head_and_face",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_head_and_face-072.png"
-      ]
+        "nih_Frontal_Balding-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Frontal Balding",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Blepharochalasis": [
+  "Brachycephaly": [
     {
-      "figure": 6,
-      "caption": "Blepharochalasis, wrinkled, thin eyelids, which in Ectropion this patient is limited to the upper lids. Definition: An outward turning (eversion) or rotation of the eyelid margin (Fig. 9). subjecti...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-006.png"
-      ]
+        "nih_Brachycephaly-Large-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Brachycephaly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Epiblepharon": [
+  "Dolichocephaly": [
     {
-      "figure": 11,
-      "caption": "Epiblepharon in a young boy with folded-down age, so in the objective finding cannot be made using these norms in upper eyelid skin, which is overlapping the palpebral persons above 15 years of age...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-011.png"
-      ]
+        "nih_Dolichocephaly-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Dolichocephaly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Eyelashes, Prominent": [
+  "Macrocephaly": [
     {
-      "figure": 21,
-      "caption": "Thick eyebrows, in a patient who also has rim rather than turning gently downward at that location (Fig. 19). Prominent eyelashes as well. This pre-teenage boy also subjective shaves his facial hai...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-021.png"
-      ]
-    },
-    {
-      "figure": 24,
-      "caption": "Prominent eyelashes in a boy. He also has the Hypotelorism: See Eyes, closely spaced finding of Long eyelashes, but that should be coded separately. See also Figure 21. Hypotrichosis: See Eyebrows,...",
+        "nih_Macrocephaly-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Macrocephaly",
       "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
-      "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-024.png"
-      ]
+      "match_type": "nih_website"
     }
   ],
-  "Lacrimal Punctum, Ectopic": [
+  "Round Face": [
     {
-      "figure": 30,
-      "caption": "The left eye shows an inferiorly placed medial an imaginary horizontal line formed by the two medial canthi when canthus and Ectopic lacrimal punctum plus a defect in the the patient holds their he...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-030.png"
-      ]
+        "nih_Face_Round-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Round Face",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Synophrys": [
+  "Trigonocephaly": [
     {
-      "figure": 39,
-      "caption": "A patient with Synophrys and Downslanted",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "elements_of_morphology_standard_terminology_for_the_periorbital_region",
       "images": [
-        "elements_of_morphology_standard_terminology_for_the_periorbital_region-039.png"
-      ]
+        "nih_Trigonocephaly-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Trigonocephaly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Penoscrotal transposition": [
+  "Long Face": [
     {
-      "figure": 23,
-      "caption": "Penoscrotal transposition. Courtesy of Dr. Trine Prescott Replaces: Doughnut scrotum and Dr. Kathrine Bjørgo (panel A) and Dr Khaled Fathi (panel B). Panel B reprinted with permission from Fathi et...",
-      "confidence": 1.0,
-      "match_type": "exact",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
       "images": [
-        "hennekam_et_al_2013_elements_of_morphology-023.png"
-      ]
+        "nih_Face_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Face",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ],
-  "Pubic hair, Sparse": [
+  "Flat Occiput": [
     {
-      "figure": 24,
-      "caption": "Sparse pubic hair (in a pubertal male).",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
       "images": [
-        "hennekam_et_al_2013_elements_of_morphology-024.png"
-      ]
-    },
-    {
-      "figure": 49,
-      "caption": "Sparse pubic hair (in a pubertal female). FIG. 50. Atretic opening of the vagina. 1262 AMERICAN JOURNAL OF MEDICAL GENETICS PART A",
+        "nih_Occiput_Flat-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Flat Occiput",
       "confidence": 1.0,
-      "match_type": "partial",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
-      "images": [
-        "hennekam_et_al_2013_elements_of_morphology-049.png"
-      ]
+      "match_type": "nih_website"
     }
   ],
-  "Scrotum, Bifid": [
+  "Short Face": [
     {
-      "figure": 27,
-      "caption": "Bifid scrotum. Note that in panels A and B the scrotum Definition: Size of the testis more than 2 SD below the mean for age shows only a mild indentation and in panel C the scrotum is (Fig. 32). ob...",
-      "confidence": 1.0,
-      "match_type": "partial",
-      "document": "hennekam_et_al_2013_elements_of_morphology",
       "images": [
-        "hennekam_et_al_2013_elements_of_morphology-027.png"
-      ]
+        "nih_Face_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Face",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Widow's Peak": [
+    {
+      "images": [
+        "nih_Widows_Peak-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Widow's Peak",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Low Posterior Hairline": [
+    {
+      "images": [
+        "nih_Hairline_Low_Posterior-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Low Posterior Hairline",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Abnormal Number Hair Whorl": [
+    {
+      "images": [
+        "nih_Hair_Whorl_Abnormal_Number-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Abnormal Number Hair Whorl",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Flat Face": [
+    {
+      "images": [
+        "nih_Face_Flat-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Flat Face",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Face": [
+    {
+      "images": [
+        "nih_Face_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Face",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Forehead": [
+    {
+      "images": [
+        "nih_Forehead_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Forehead",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cheekbone Prominence": [
+    {
+      "images": [
+        "nih_Cheekbone_Prominence-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cheekbone Prominence",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Glabella": [
+    {
+      "images": [
+        "nih_Glabella_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Glabella",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Sloping Forehead": [
+    {
+      "images": [
+        "nih_Forehead_Sloping-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Sloping Forehead",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Supraorbital Ridges": [
+    {
+      "images": [
+        "nih_Supraorbital_Ridges_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Supraorbital Ridges",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Vertical Forehead Creases": [
+    {
+      "images": [
+        "nih_Forehead_Creases_Vertical-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Vertical Forehead Creases",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Metopic Depression": [
+    {
+      "images": [
+        "nih_Metopic_Depression-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Metopic Depression",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Square Face": [
+    {
+      "images": [
+        "nih_Face_Square-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Square Face",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Metopic Ridge": [
+    {
+      "images": [
+        "nih_Metopic_Ridge_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Metopic Ridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Underdeveloped Supraorbital Ridges": [
+    {
+      "images": [
+        "nih_Supraorbital_Ridges_Underdeveloped-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Underdeveloped Supraorbital Ridges",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Sunken Cheeks": [
+    {
+      "images": [
+        "nih_Cheeks_Sunken-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Sunken Cheeks",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Premaxillary Underdevelopment": [
+    {
+      "images": [
+        "nih_Premaxillary_Underdevelopment-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Premaxillary Underdevelopment",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Nasolabial Fold": [
+    {
+      "images": [
+        "nih_n4C5BFwcAt2YCHmkSDmNwAb2gm2Kgtqw-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Nasolabial Fold",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Forehead": [
+    {
+      "images": [
+        "nih_Forehead_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Forehead",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Midface Retrusion": [
+    {
+      "images": [
+        "nih_Midface_Retrusion-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Midface Retrusion",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Malar Flattening": [
+    {
+      "images": [
+        "nih_Malar_Flattening-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Malar Flattening",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Underdeveloped Nasolabial Fold": [
+    {
+      "images": [
+        "nih_t_ZQMxKgqpN2ka_9wZFhh5yGDPP2SkMx-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Underdeveloped Nasolabial Fold",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Malar Prominence": [
+    {
+      "images": [
+        "nih_Malar_Prominence-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Malar Prominence",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Jaw": [
+    {
+      "images": [
+        "nih_Jaw_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Jaw",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Jaw": [
+    {
+      "images": [
+        "nih_Jaw_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Jaw",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Chin Dimple": [
+    {
+      "images": [
+        "nih_Chin_Dimple-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Chin Dimple",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cleft Mandible": [
+    {
+      "images": [
+        "nih_Mandible_Cleft-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cleft Mandible",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Horizontal Crease Chin": [
+    {
+      "images": [
+        "nih_Chin_Horizontal_Crease-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Horizontal Crease Chin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Chin": [
+    {
+      "images": [
+        "nih_Chin_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Chin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Neck": [
+    {
+      "images": [
+        "nih_Neck_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Neck",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Pointed Chin": [
+    {
+      "images": [
+        "nih_Chin_Pointed-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Pointed Chin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Chin": [
+    {
+      "images": [
+        "nih_Chin_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Chin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Neck": [
+    {
+      "images": [
+        "nih_Neck_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Neck",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "H-Shaped Crease Chin": [
+    {
+      "images": [
+        "nih_Chin_H-Shaped_Crease-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "H-Shaped Crease Chin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Epicanthus": [
+    {
+      "images": [
+        "nih_Epicanthus-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Epicanthus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Telecanthus": [
+    {
+      "images": [
+        "nih_Telecanthus-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Telecanthus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Sparse Eyelashes": [
+    {
+      "images": [
+        "nih_Eyelashes_Sparse-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Sparse Eyelashes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Tall Chin": [
+    {
+      "images": [
+        "nih_Chin_Tall-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Tall Chin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Redundant Nuchal Skin": [
+    {
+      "images": [
+        "nih_Nuchal_Skin_Redundant-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Redundant Nuchal Skin",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Neck": [
+    {
+      "images": [
+        "nih_Neck_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Neck",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Blepharophimosis": [
+    {
+      "images": [
+        "nih_Blepharophimosis-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Blepharophimosis",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Entropion": [
+    {
+      "images": [
+        "nih_Entropion-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Entropion",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Ankyloblepharon": [
+    {
+      "images": [
+        "nih_Ankyloblepharon-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Ankyloblepharon",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Ectropion": [
+    {
+      "images": [
+        "nih_Ectropion-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Ectropion",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cryptophthalmos": [
+    {
+      "images": [
+        "nih_Cryptophthalmos-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cryptophthalmos",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Downslanted Palpebral Fissure": [
+    {
+      "images": [
+        "nih_Palpebral_Fissure_Downslanted-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Downslanted Palpebral Fissure",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Ablepharon": [
+    {
+      "images": [
+        "nih_Ablepharon-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Ablepharon",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Ptosis": [
+    {
+      "images": [
+        "nih_Ptosis-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Ptosis",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Eyelashes": [
+    {
+      "images": [
+        "nih_Eyelashes_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Eyelashes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cleft Eyelid": [
+    {
+      "images": [
+        "nih_Eyelid_Cleft-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cleft Eyelid",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thick Eyebrow": [
+    {
+      "images": [
+        "nih_Eyebrow_Thick-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thick Eyebrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Infra-Orbital Fold": [
+    {
+      "images": [
+        "nih_Infra-Orbital_Fold-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Infra-Orbital Fold",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Eyebrow": [
+    {
+      "images": [
+        "nih_Eyebrow_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Eyebrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absence Lacrimal Punctum": [
+    {
+      "images": [
+        "nih_Lacrimal_Punctum_Absence-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absence Lacrimal Punctum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Closely Spaced Eyes": [
+    {
+      "images": [
+        "nih_Eyes_Closely_Spaced-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Closely Spaced Eyes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Laterally Extended Eyebrow": [
+    {
+      "images": [
+        "nih_Eyebrow_Laterally_Extended-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Laterally Extended Eyebrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Deeply Set Eye": [
+    {
+      "images": [
+        "nih_Eye_Deeply_Set-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Deeply Set Eye",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Eyelashes": [
+    {
+      "images": [
+        "nih_Eyelashes_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Eyelashes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Widely Spaced Eyes": [
+    {
+      "images": [
+        "nih_Eyes_Widely_Spaced-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Widely Spaced Eyes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Lagophthalmos": [
+    {
+      "images": [
+        "nih_Lagophthalmos-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Lagophthalmos",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Horizontal Eyebrow": [
+    {
+      "images": [
+        "nih_Eyebrow_Horizontal-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Horizontal Eyebrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Sparse Eyebrow": [
+    {
+      "images": [
+        "nih_Eyebrow_Sparse-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Sparse Eyebrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Infra-Orbital Crease": [
+    {
+      "images": [
+        "nih_Infra-Orbital_Crease-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Infra-Orbital Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Additional Crus Antihelix": [
+    {
+      "images": [
+        "nih_Antihelix_Additional_Crus-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Additional Crus Antihelix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Antihelix Inferior Crus": [
+    {
+      "images": [
+        "nih_Antihelix_Inferior_Crus_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Antihelix Inferior Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Palpebral Fissure": [
+    {
+      "images": [
+        "nih_Palpebral_Fissure_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Palpebral Fissure",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Highly Arched Eyebrow": [
+    {
+      "images": [
+        "nih_Eyebrow_Highly_Arched-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Highly Arched Eyebrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Angulated Antihelix": [
+    {
+      "images": [
+        "nih_Antihelix_Angulated-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Angulated Antihelix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Upslanted Palpebral Fissure": [
+    {
+      "images": [
+        "nih_Palpebral_Fissure_Upslanted-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Upslanted Palpebral Fissure",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Proptosis": [
+    {
+      "images": [
+        "nih_Proptosis-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Proptosis",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Anotia": [
+    {
+      "images": [
+        "nih_Anotia-large-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Anotia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Antihelical Shelf": [
+    {
+      "images": [
+        "nih_tHcm9eNKBwA6744pFcqGzaEBK3cqpe34-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Antihelical Shelf",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Almond-Shaped Palpebral Fissure": [
+    {
+      "images": [
+        "nih_Palpebral_Fissure_Almond-Shaped-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Almond-Shaped Palpebral Fissure",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Fullness of Upper Eyelid": [
+    {
+      "images": [
+        "nih_Upper_Eyelid_Fullness_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Fullness of Upper Eyelid",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Palpebral Fissure": [
+    {
+      "images": [
+        "nih_Palpebral_Fissure_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Palpebral Fissure",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Antitragus": [
+    {
+      "images": [
+        "nih_Antitragus_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Antitragus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Serpiginous Antihelix Stem": [
+    {
+      "images": [
+        "nih_Antihelix_Stem_Serpiginous-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Serpiginous Antihelix Stem",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Antihelix Stem": [
+    {
+      "images": [
+        "nih_Antihelix_Stem_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Antihelix Stem",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Antitragus": [
+    {
+      "images": [
+        "nih_Antitragus_Absent_2-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Antitragus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Antihelix Superior Crus": [
+    {
+      "images": [
+        "nih_Antihelix_Superior_Crus_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Antihelix Superior Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Stahl Ear": [
+    {
+      "images": [
+        "nih_Stahl_Ear-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Stahl Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Extra Fold Concha": [
+    {
+      "images": [
+        "nih_RF8F7QcuNcFr4caEEzSyUXwGyWAGCBHr-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Extra Fold Concha",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bifid Antitragus": [
+    {
+      "images": [
+        "nih_Antitragus_Bifid-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bifid Antitragus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Antihelix Inferior Crus": [
+    {
+      "images": [
+        "nih_Antihelix_Inferior_Crus_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Antihelix Inferior Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Crumpled Ear": [
+    {
+      "images": [
+        "nih_Ear_Crumpled-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Crumpled Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Protruding Ear": [
+    {
+      "images": [
+        "nih_Ear_Protruding-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Protruding Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Focal Absence Ear": [
+    {
+      "images": [
+        "nih_Ear_Focal_Absence-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Focal Absence Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Question Mark Ear": [
+    {
+      "images": [
+        "nih_Question_Mark_Ear-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Question Mark Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Ear": [
+    {
+      "images": [
+        "nih_Ear_long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Increased Ear Posterior Angulation": [
+    {
+      "images": [
+        "nih_Ear_Posterior_Angulation_Increased-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Increased Ear Posterior Angulation",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cryptotia": [
+    {
+      "images": [
+        "nih_Cryptotia-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cryptotia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Underfolded Helix": [
+    {
+      "images": [
+        "nih_Helix_Underfolded-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Underfolded Helix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cleft Helix": [
+    {
+      "images": [
+        "nih_qCRn7PsEtsqspnYT3EF3GAK4yfywBpmD-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cleft Helix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Third Degree Microtia": [
+    {
+      "images": [
+        "nih_Microtia_Third_Degree-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Third Degree Microtia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Second Degree Microtia": [
+    {
+      "images": [
+        "nih_Microtia_Second_Degree-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Second Degree Microtia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cupped Ear": [
+    {
+      "images": [
+        "nih_Ear_Cupped-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cupped Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Posterior Helix Pit": [
+    {
+      "images": [
+        "nih_Helix_Posterior_Pit-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Posterior Helix Pit",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Low-Set Ear": [
+    {
+      "images": [
+        "nih_Ear_Low-Set-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Low-Set Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Overfolded Helix": [
+    {
+      "images": [
+        "nih_Helix_Overfolded-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Overfolded Helix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Crimped Helix": [
+    {
+      "images": [
+        "nih_Helix_Crimped-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Crimped Helix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Darwin Notch Helix": [
+    {
+      "images": [
+        "nih_Helix_Darwin_Notch-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Darwin Notch Helix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Tragal Bridge Helix Crus": [
+    {
+      "images": [
+        "nih_Helix_Crus_Tragal_Bridge-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Tragal Bridge Helix Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Helix Crus": [
+    {
+      "images": [
+        "nih_Helix_Crus_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Helix Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Helix Crus": [
+    {
+      "images": [
+        "nih_Helix_Crus_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Helix Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Lobe": [
+    {
+      "images": [
+        "nih_D7HQ5ub2ksafFcG7D3ZE_2Cd3G3UGb7U-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Discontinuous Ascending Root Helix": [
+    {
+      "images": [
+        "nih_Helix_Discontinuous_Ascending_Root-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Discontinuous Ascending Root Helix",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Preauricular Pit": [
+    {
+      "images": [
+        "nih_Pit_Preauricular-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Preauricular Pit",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cleft Lobe": [
+    {
+      "images": [
+        "nih_Lobe_Cleft-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cleft Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Serpiginous Helix Crus": [
+    {
+      "images": [
+        "nih_Helix_Crus_Serpiginous-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Serpiginous Helix Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Connected to Antihelix Helix Crus": [
+    {
+      "images": [
+        "nih_Helix_Crus_Connected_to_Antihelix-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Connected to Antihelix Helix Crus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Uplifted Lobe": [
+    {
+      "images": [
+        "nih_Lobe_Uplifted-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Uplifted Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Pretragal Ectopia": [
+    {
+      "images": [
+        "nih_Pretragal_Ectopia-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Pretragal Ectopia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Quelprud Nodule": [
+    {
+      "images": [
+        "nih_yyvhFcaP7wFnTQxGkaM6NtHrM9XwDm2k-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Quelprud Nodule",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Auricular Pit": [
+    {
+      "images": [
+        "nih_Pit_Auricular-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Auricular Pit",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Forward Facing Lobe": [
+    {
+      "images": [
+        "nih_Lobe_Forward_Facing-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Forward Facing Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "First Degree Microtia": [
+    {
+      "images": [
+        "nih_64kq8Tss3rEhBbKMsbSQqXxryXXscaHp-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "First Degree Microtia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Attached Lobe": [
+    {
+      "images": [
+        "nih_Lobe_Attached-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Attached Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Shell Ear": [
+    {
+      "images": [
+        "nih_Shell_Ear-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Shell Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Lop Ear": [
+    {
+      "images": [
+        "nih_Lop_Ear-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Lop Ear",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Anterior Crease(s) Lobe": [
+    {
+      "images": [
+        "nih_gtkbpTRfv72tXEV3VPQRVn5TSuePw2Ez-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Anterior Crease(s) Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Large Lobe": [
+    {
+      "images": [
+        "nih_Lobe_Large-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Large Lobe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Auricular Tag": [
+    {
+      "images": [
+        "nih_Tag_Auricular-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Auricular Tag",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Preauricular Tag": [
+    {
+      "images": [
+        "nih_Tag_Preauricular-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Preauricular Tag",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Tragus": [
+    {
+      "images": [
+        "nih_Tragus_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Tragus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Tragus": [
+    {
+      "images": [
+        "nih_NXqrSqRESscepRZG7NP3UvQNamBD3s33-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Tragus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Underdeveloped Ala Nasi": [
+    {
+      "images": [
+        "nih_Ala_Nasi_Underdeveloped-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Underdeveloped Ala Nasi",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Columella": [
+    {
+      "images": [
+        "nih_Columella_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Columella",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Low Hanging Columella": [
+    {
+      "images": [
+        "nih_Columella_Low_Hanging-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Low Hanging Columella",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bifid Tragus": [
+    {
+      "images": [
+        "nih_Tragus_Bifid-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bifid Tragus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Naris": [
+    {
+      "images": [
+        "nih_AxZQwnQXukp2x2kEv_HTN9Z3zRyrqP6D-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Naris",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Nasal Bridge": [
+    {
+      "images": [
+        "nih_Nasal_Bridge_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Nasal Bridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Nasal Bridge": [
+    {
+      "images": [
+        "nih_Nasal_Bridge_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Nasal Bridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Wide Nasal Bridge": [
+    {
+      "images": [
+        "nih_Nasal_Bridge_Wide-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Wide Nasal Bridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cleft Ala Nasi": [
+    {
+      "images": [
+        "nih_Ala_Nasi_Cleft-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cleft Ala Nasi",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thick Ala Nasi": [
+    {
+      "images": [
+        "nih_Ala_Nasi_Thick-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thick Ala Nasi",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Nasal Cartilage": [
+    {
+      "images": [
+        "nih_Nasal_Cartilage_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Nasal Cartilage",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Low Insertion Columella": [
+    {
+      "images": [
+        "nih_Columella_Low_Insertion-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Low Insertion Columella",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Anteverted Nares": [
+    {
+      "images": [
+        "nih_Nares_Anteverted-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Anteverted Nares",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Enlarged Naris": [
+    {
+      "images": [
+        "nih_Naris_Enlarged-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Enlarged Naris",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Depressed Nasal Bridge": [
+    {
+      "images": [
+        "nih_Nasal_Bridge_Depressed-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Depressed Nasal Bridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Nasal Base": [
+    {
+      "images": [
+        "nih_Nasal_Base_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Nasal Base",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Wide Nasal Base": [
+    {
+      "images": [
+        "nih_Nasal_Base_Wide-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Wide Nasal Base",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Fullness Paranasal Tissue": [
+    {
+      "images": [
+        "nih_Paranasal_Tissue_Fullness-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Fullness Paranasal Tissue",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Supernumerary Naris": [
+    {
+      "images": [
+        "nih_Naris_Supernumerary-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Supernumerary Naris",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bulbous Nose": [
+    {
+      "images": [
+        "nih_Nose_Bulbous-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bulbous Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bifid Nose": [
+    {
+      "images": [
+        "nih_Nose_Bifid-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bifid Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Nose": [
+    {
+      "images": [
+        "nih_Nose_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Nasal Ridge": [
+    {
+      "images": [
+        "nih_Nasal_Ridge_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Nasal Ridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Wide Nasal Ridge": [
+    {
+      "images": [
+        "nih_Nasal_Ridge_Wide-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Wide Nasal Ridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Nasal Tip": [
+    {
+      "images": [
+        "nih_Nasal_Tip_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Nasal Tip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Nose": [
+    {
+      "images": [
+        "nih_Nose_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Nose": [
+    {
+      "images": [
+        "nih_Nose_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Philtrum": [
+    {
+      "images": [
+        "nih_Philtrum_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Philtrum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Tented Philtrum": [
+    {
+      "images": [
+        "nih_Philtrum_Tented-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Tented Philtrum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Deep Philtrum": [
+    {
+      "images": [
+        "nih_Philtrum_Deep-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Deep Philtrum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Commissural Pit": [
+    {
+      "images": [
+        "nih_Commissural_Pit-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Commissural Pit",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Nose": [
+    {
+      "images": [
+        "nih_Nose_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Depressed Nasal Ridge": [
+    {
+      "images": [
+        "nih_Nasal_Ridge_Depressed-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Depressed Nasal Ridge",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Depressed Nasal Tip": [
+    {
+      "images": [
+        "nih_Nasal_Tip_Depressed-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Depressed Nasal Tip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Nasal Tip": [
+    {
+      "images": [
+        "nih_Nasal_Tip_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Nasal Tip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Deviated Nasal Tip": [
+    {
+      "images": [
+        "nih_Nasal_Tip_Deviated-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Deviated Nasal Tip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Malaligned Philtral Ridges": [
+    {
+      "images": [
+        "nih_Philtral_Ridges_Malaligned-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Malaligned Philtral Ridges",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Proboscis": [
+    {
+      "images": [
+        "nih_Proboscis-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Proboscis",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Midline Sinus Philtrum": [
+    {
+      "images": [
+        "nih_Philtrum_Midline_Sinus-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Midline Sinus Philtrum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Cupid's Bow": [
+    {
+      "images": [
+        "nih_Cupids_Bow_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Cupid's Bow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Philtrum": [
+    {
+      "images": [
+        "nih_Philtrum_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Philtrum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Nose": [
+    {
+      "images": [
+        "nih_Nose_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Nose",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Perioral Hyperpigmentation": [
+    {
+      "images": [
+        "nih_Perioral_Hyperpigmentation-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Perioral Hyperpigmentation",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Fibrous Syngnathia": [
+    {
+      "images": [
+        "nih_Fibrous_Syngnathia-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Fibrous Syngnathia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Lip Freckle": [
+    {
+      "images": [
+        "nih_Lip_Freckle-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Lip Freckle",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Intra-Oral Hyperpigmentation": [
+    {
+      "images": [
+        "nih_Hyperpigmentation_Intra-Oral-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Intra-Oral Hyperpigmentation",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Everted Vermilion Upper Lip": [
+    {
+      "images": [
+        "nih_bz9byV6cYZ6P_4gsu9zFPBFAbUHrpdgB-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Everted Vermilion Upper Lip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Tented Vermilion Upper Lip": [
+    {
+      "images": [
+        "nih_Vermilion_Upper_Lip_Tented-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Tented Vermilion Upper Lip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Everted Vermilion Lower Lip": [
+    {
+      "images": [
+        "nih_Vermilion_Lower_Lip_Everted-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Everted Vermilion Lower Lip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thick Vermilion Upper Lip": [
+    {
+      "images": [
+        "nih_9aGqXgVR9UzpW5dSQcNGx2m23GtKXXEH-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thick Vermilion Upper Lip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thin Vermilion Upper Lip": [
+    {
+      "images": [
+        "nih_Vermilion_Upper_Lip_Thin-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thin Vermilion Upper Lip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Exaggerated Cupid's Bow": [
+    {
+      "images": [
+        "nih_Cupids_Bow_Exaggerated-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Exaggerated Cupid's Bow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Upturned Corners of Mouth": [
+    {
+      "images": [
+        "nih_Mouth_Upturned_Corners_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Upturned Corners of Mouth",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Widely Spaced Teeth": [
+    {
+      "images": [
+        "nih_Teeth_Widely_Spaced-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Widely Spaced Teeth",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Lip Pit": [
+    {
+      "images": [
+        "nih_Lip_Pit-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Lip Pit",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thick Vermilion Lower Lip": [
+    {
+      "images": [
+        "nih_Vermilion_Lower_Lip_Thick-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thick Vermilion Lower Lip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Accessory Oral Frenulum": [
+    {
+      "images": [
+        "nih_Oral_Frenulum_Accessory-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Accessory Oral Frenulum",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Dental Crowding": [
+    {
+      "images": [
+        "nih_Dental_Crowding-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Dental Crowding",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Alveolar Ridge Overgrowth": [
+    {
+      "images": [
+        "nih_Alveolar_Ridge_Overgrowth-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Alveolar Ridge Overgrowth",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Ankyloglossia": [
+    {
+      "images": [
+        "nih_Ankyloglossia-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Ankyloglossia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Diastema": [
+    {
+      "images": [
+        "nih_Diastema-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Diastema",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Wide Mouth": [
+    {
+      "images": [
+        "nih_Mouth_Wide-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Wide Mouth",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Oral Synechia": [
+    {
+      "images": [
+        "nih_xntbA8S_aw_z2qKAxpFb9eZnv7AR3RBB-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Oral Synechia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Gingival Overgrowth": [
+    {
+      "images": [
+        "nih_Gingival_Overgrowth-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Gingival Overgrowth",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Microdontia": [
+    {
+      "images": [
+        "nih_Microdontia-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Microdontia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Glossoptosis": [
+    {
+      "images": [
+        "nih_Glossoptosis-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Glossoptosis",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Macrodontia": [
+    {
+      "images": [
+        "nih_Macrodontia-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Macrodontia",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Palatine Ridges": [
+    {
+      "images": [
+        "nih_Palatine_Ridges_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Palatine Ridges",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Submucous Cleft Palate": [
+    {
+      "images": [
+        "nih_Palate_Submucous_Cleft-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Submucous Cleft Palate",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Palate Hard": [
+    {
+      "images": [
+        "nih_Palate_Hard_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Palate Hard",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Large Tongue": [
+    {
+      "images": [
+        "nih_Tongue_Large-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Large Tongue",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Lobulated Tongue": [
+    {
+      "images": [
+        "nih_Tongue_Lobulated-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Lobulated Tongue",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Smooth Tongue": [
+    {
+      "images": [
+        "nih_Tongue_Smooth-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Smooth Tongue",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Palate": [
+    {
+      "images": [
+        "nih_Palate_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Palate",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "High Palate": [
+    {
+      "images": [
+        "nih_Palate_High-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "High Palate",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cleft Uvula": [
+    {
+      "images": [
+        "nih_Uvula_Cleft-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cleft Uvula",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bifid Tongue": [
+    {
+      "images": [
+        "nih_Tongue_Bifid-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bifid Tongue",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Natal Tooth": [
+    {
+      "images": [
+        "nih_Tooth_Natal-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Natal Tooth",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Uvula": [
+    {
+      "images": [
+        "nih_Cugu6yz576zufyGqKWWrXUSA5TRarq72-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Uvula",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Uvula": [
+    {
+      "images": [
+        "nih_Uvula_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Uvula",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Pes Planus": [
+    {
+      "images": [
+        "nih_Pes_Planus-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Pes Planus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Pes Cavus": [
+    {
+      "images": [
+        "nih_Pes_Cavus-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Pes Cavus",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Prominent Digit Pad": [
+    {
+      "images": [
+        "nih_Digit_Pad_Prominent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Prominent Digit Pad",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Foot": [
+    {
+      "images": [
+        "nih_Foot_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Finger": [
+    {
+      "images": [
+        "nih_Finger_Absent-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Adactyly": [
+    {
+      "images": [
+        "nih_mfig001-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Adactyly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Distal Phalanx of Toe": [
+    {
+      "images": [
+        "nih_BY8bAekpWGxpW_4gCZgyQ5WNhSSPTGUs-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Distal Phalanx of Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Fingertip": [
+    {
+      "images": [
+        "nih_Fingertip_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Fingertip",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Clubbing": [
+    {
+      "images": [
+        "nih_Clubbing-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Clubbing",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Radial Deviation of Hand": [
+    {
+      "images": [
+        "nih_Hand_Radial_Deviation_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Radial Deviation of Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Splayed Fingers": [
+    {
+      "images": [
+        "nih_Fingers_Splayed-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Splayed Fingers",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Radial Deviation of Finger": [
+    {
+      "images": [
+        "nih_Finger_Radial_Deviation_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Radial Deviation of Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Finger": [
+    {
+      "images": [
+        "nih_Finger_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Distal Phalanx of Finger": [
+    {
+      "images": [
+        "nih_Finger_Short_Distal_Phalanx_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Distal Phalanx of Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Triphalangeal Thumb": [
+    {
+      "images": [
+        "nih_XR34kRDtve34dB3bQseXeWmKYcyc5kau-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Triphalangeal Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Tapered Finger": [
+    {
+      "images": [
+        "nih_Finger_Tapered-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Tapered Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Toe": [
+    {
+      "images": [
+        "nih_4YrAza3s58ENqFZcAP3GVYsTrQU9EeCR-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Slender Finger": [
+    {
+      "images": [
+        "nih_Finger_Slender-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Slender Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cutaneous Syndactyly of Fingers": [
+    {
+      "images": [
+        "nih_Fingers_Cutaneous_Syndactyly_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cutaneous Syndactyly of Fingers",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Finger": [
+    {
+      "images": [
+        "nih_Finger_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Fingers": [
+    {
+      "images": [
+        "nih_Fingers_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Fingers",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Small Finger": [
+    {
+      "images": [
+        "nih_EyuQVkFTP3HDDn9ZkNyRYThz3EgDPYwk-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Small Finger",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Hammertoe": [
+    {
+      "images": [
+        "nih_Hammertoe-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Hammertoe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Osseous Syndactyly of Foot": [
+    {
+      "images": [
+        "nih_Foot_Osseous_Syndactyly_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Osseous Syndactyly of Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Postaxial Polydactyly of Foot": [
+    {
+      "images": [
+        "nih_Foot_Postaxial_Polydactyly_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Postaxial Polydactyly of Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Clenched Hand": [
+    {
+      "images": [
+        "nih_Hand_Clenched-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Clenched Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Narrow Foot": [
+    {
+      "images": [
+        "nih_Foot_Narrow-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Narrow Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Split Hand": [
+    {
+      "images": [
+        "nih_Hand_Split-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Split Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Partial Absence of Foot": [
+    {
+      "images": [
+        "nih_Foot_Partial_Absence_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Partial Absence of Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Foot": [
+    {
+      "images": [
+        "nih_Foot_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Palm": [
+    {
+      "images": [
+        "nih_Palm_Long-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Palm",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Rocker Bottom Foot": [
+    {
+      "images": [
+        "nih_Foot_Rocker_Bottom-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Rocker Bottom Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Hallux": [
+    {
+      "images": [
+        "nih_Hallux_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Hallux",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Osseous Syndactyly of Hand": [
+    {
+      "images": [
+        "nih_Hand_Osseous_Syndactyly_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Osseous Syndactyly of Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Foot": [
+    {
+      "images": [
+        "nih_Foot_Broad-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Foot": [
+    {
+      "images": [
+        "nih_Foot_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Foot",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Toe": [
+    {
+      "images": [
+        "nih_nGAzv9TaTE5zrNnSGCf9KDRuVhVKb45B-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Small Hypothenar Eminence": [
+    {
+      "images": [
+        "nih_Hypothenar_Eminence_Small-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Small Hypothenar Eminence",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Macrodactyly": [
+    {
+      "images": [
+        "nih_Macrodactyly-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Macrodactyly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Trident Hand": [
+    {
+      "images": [
+        "nih_Hand_Trident-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Trident Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Preaxial Polydactyly of Hand": [
+    {
+      "images": [
+        "nih_Hand_Preaxial_Polydactyly_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Preaxial Polydactyly of Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Postaxial Polydactyly of Hand": [
+    {
+      "images": [
+        "nih_Hand_Postaxial_Polydactyly_of-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Postaxial Polydactyly of Hand",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Thumb": [
+    {
+      "images": [
+        "nih_Hrd5CxQxSdGv4aWXKgqURtdVsrKpYtW_-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Metatarsal": [
+    {
+      "images": [
+        "nih_Metatarsal_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Metatarsal",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Metacarpal": [
+    {
+      "images": [
+        "nih_Metacarpal_Short-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Metacarpal",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Partial Absence of Toe": [
+    {
+      "images": [
+        "nih_w7D7vH4DFgguN9fdtkytkrspzvAtEC3k-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Partial Absence of Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Hitchhiker Thumb": [
+    {
+      "images": [
+        "nih__kmAugvTfTaF3kWxM2pxtcZQHbf3QX6b-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Hitchhiker Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Adducted Thumb": [
+    {
+      "images": [
+        "nih_cnT4zYr_kMpWGkWb9W8FaPDapAgXMqut-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Adducted Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Proximal Placement of Thumb": [
+    {
+      "images": [
+        "nih_C7Nhx2PBKmnMuSp87tEVE5bC2xBnVTqQ-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Proximal Placement of Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Thumb": [
+    {
+      "images": [
+        "nih__RSGAykd6BDbQtzuAqvpxtFbBNMMsvXr-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Cutaneous Syndactyly of Toes": [
+    {
+      "images": [
+        "nih_Ar5E88PR3Xg7rWv6xkN9nKNP5nDqS9yx-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Cutaneous Syndactyly of Toes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Broad Toe": [
+    {
+      "images": [
+        "nih_qqFQ737kgzEBYE_V3pE9p_9EEFFVnAt8-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Broad Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Ray": [
+    {
+      "images": [
+        "nih_xdYZGemB4dpm4s3QZxH2QnBmY_NQ6aP5-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Ray",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Small Thenar Eminence": [
+    {
+      "images": [
+        "nih_DamyqfKUBhu3z6bMWGNa7CzHP5m3vxYF-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Small Thenar Eminence",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Small Toe": [
+    {
+      "images": [
+        "nih_EWknzArRsd8uA2zbaXvRWAkhxcYCExqQ-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Small Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Mesoaxial Polydactyly": [
+    {
+      "images": [
+        "nih_vWEhEpqKQUBAq_DvuhSWyngtar4Du7hF-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Mesoaxial Polydactyly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Convex Contour of Sole": [
+    {
+      "images": [
+        "nih_48PpHHaP8gseFn6ct7evQH9mYfDDCG64-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Convex Contour of Sole",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Sandal Gap": [
+    {
+      "images": [
+        "nih_UErwXUH6SSCZ8tgyQ9KrnRRV4mFGXNRh-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Sandal Gap",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bridged Palmar Crease": [
+    {
+      "images": [
+        "nih_TmX6SspvnrP8xCFuS7ZszezcZD2CDG8_-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bridged Palmar Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Splayed Toes": [
+    {
+      "images": [
+        "nih_FvC6c7ahV_cv3fq4NB5PbZRY4h9ee9zS-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Splayed Toes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Mirror Image Polydactyly": [
+    {
+      "images": [
+        "nih_AF6KEUGKHP47w3zRB97yhn45bXpyBXFf-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Mirror Image Polydactyly",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Deep Longitudinal Plantar Crease": [
+    {
+      "images": [
+        "nih_DMaUD6vEgXHkAnCrrm9gfvymnPAadmDE-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Deep Longitudinal Plantar Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Overlapping Toes": [
+    {
+      "images": [
+        "nih_gn_nAzK3RwNEKgzMG_nCyxmaZctWGHcK-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Overlapping Toes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Partial Absence of Thumb": [
+    {
+      "images": [
+        "nih_hqXNtPceDsRaHqPR7wY_vMhaMY8setGY-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Partial Absence of Thumb",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Widely Spaced Toes": [
+    {
+      "images": [
+        "nih_z2Wx_f73znnW9sG8V4grsxkBs_Xn5RST-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Widely Spaced Toes",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Concave Nail": [
+    {
+      "images": [
+        "nih_NYexcgDAWT8VDQxKubFUEm52xxy4caTK-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Concave Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Sydney Crease": [
+    {
+      "images": [
+        "nih_uVFnAhFcZ9UK5nw5y_a_bhVmGEwrZh6E-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Sydney Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Tapered Toe": [
+    {
+      "images": [
+        "nih_ak94AhvV2uM6nQeaUW6fGu5gF6GEDSbX-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Tapered Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Slender Toe": [
+    {
+      "images": [
+        "nih_F7snXbYpVd3UaMuV2sXKa5m8xQnSFsgq-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Slender Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Deep Palmar Crease": [
+    {
+      "images": [
+        "nih_V3xCY6ZxrFScryQNY_yDCAk3g35xVvxm-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Deep Palmar Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Absent Palmar Crease": [
+    {
+      "images": [
+        "nih_gqRrrsyQuMp57yFSKrRs5vxEHyzsegbW-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Absent Palmar Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Single Transverse Palmar Crease": [
+    {
+      "images": [
+        "nih_U5EUWeuZTbrrCpHgZPeZ3ZeG36uxxNme-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Single Transverse Palmar Crease",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Decreased Palmar Creases": [
+    {
+      "images": [
+        "nih_7nyyQgQ2ME27MhVqAdaF9PCEBMKr37a3-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Decreased Palmar Creases",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Small Nail": [
+    {
+      "images": [
+        "nih_Qrc53EgpgMaYBEpxNVZsBbMNecRuCQha-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Small Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Long Toe": [
+    {
+      "images": [
+        "nih_azEVA9vAhKg8VUfVxXnTreXQyBnwaPbe-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Long Toe",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Hyperconvex Nail": [
+    {
+      "images": [
+        "nih_bpC8V4Zcvcqy35bSGbp9ngyzuKpWR2_G-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Hyperconvex Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Bifid Nail": [
+    {
+      "images": [
+        "nih_RnnWBuSwdnbgNu2sQDSAgzA5sc6FYG_r-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Bifid Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Fused Nails": [
+    {
+      "images": [
+        "nih_FQScvv4mC7pVdwkBy9XecpMRznwPG65X-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Fused Nails",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Ridged Nail": [
+    {
+      "images": [
+        "nih_znNMyQ68a8ez6T88tFp2Fh3nnP4z7FhC-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Ridged Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Nail Narrow": [
+    {
+      "images": [
+        "nih_KhTgtxK44fqdYCYQhGu2CPed542AYErw-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Nail Narrow",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Split Nail": [
+    {
+      "images": [
+        "nih_rcuCsbwtFr6rh_6m2yZ8eE_sQgSpZx8c-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Split Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thin Nail": [
+    {
+      "images": [
+        "nih_zwVQSNYfYquBYqATCXdRGPytZCZSwgsD-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thin Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Nail Pits": [
+    {
+      "images": [
+        "nih_Rgdbdg2ACGg86U8tkVtMTGc8mgdEFTdC-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Nail Pits",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Thick Nail": [
+    {
+      "images": [
+        "nih_bNcPKEz__HbdacWsFuSGyvFZXdDEKC5R-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Thick Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
+    }
+  ],
+  "Short Nail": [
+    {
+      "images": [
+        "nih_7NXKTzmaUpwx6zMV6S_yCTgwNg2qrGrq-small.jpg"
+      ],
+      "figure": 1,
+      "caption": "Short Nail",
+      "confidence": 1.0,
+      "match_type": "nih_website"
     }
   ]
 }
