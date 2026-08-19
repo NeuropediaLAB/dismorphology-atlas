@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Atlas de Dismorfología - Terminología Estándar</title>
+    <link rel="stylesheet" href="assets/neuropedialab-theme.css">
     <style>
         * {
             margin: 0;
@@ -12,35 +13,38 @@
         }
         
         body {
-            font-family: "NonBreakingSpaceOverride", "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
-            background: #fff;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            background: #0b0f19;
             min-height: 100vh;
             padding: 0;
             line-height: 1.8;
-            color: #111;
+            color: #f8fafc;
             font-size: 16px;
         }
         
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            background: white;
-            border-radius: 0;
-            box-shadow: none;
+            background: #1e293b;
+            border-radius: 16px;
+            border: 1px solid #334155;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.4);
             overflow: hidden;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
         }
         
         header {
-            background: linear-gradient(90deg, #0073aa 0%, #005177 100%);
-            color: #fff;
-            padding: 40px 40px 20px;
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            color: #f8fafc;
+            padding: 40px 40px 25px;
             text-align: center;
-            border-bottom: none;
+            border-bottom: 1px solid #334155;
         }
         
         h1 {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            font-size: 1.8em;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-size: 2em;
             margin-bottom: 10px;
             font-weight: 700;
             letter-spacing: -0.02em;
@@ -49,16 +53,14 @@
         }
         
         .subtitle {
-            font-family: "NonBreakingSpaceOverride", "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
             opacity: 0.9;
-            font-size: 0.9em;
+            font-size: 0.95em;
             margin-bottom: 0;
             font-weight: 400;
             line-height: 1.4;
             color: rgba(255,255,255,0.9);
         }
-        
-
         
         .content {
             padding: 40px 40px;
@@ -66,7 +68,7 @@
         
         .intro-text {
             text-align: center;
-            color: #767676;
+            color: #94a3b8;
             margin-bottom: 40px;
             font-size: 1em;
             line-height: 1.6;
@@ -79,46 +81,48 @@
         }
         
         .accordion-item {
-            background: white;
-            border: none;
-            border-bottom: 1px solid #f0f0f0;
-            border-radius: 0;
-            margin-bottom: 0;
+            background: #151f32;
+            border: 1px solid #334155;
+            border-radius: 12px !important;
+            margin-bottom: 15px;
             overflow: hidden;
-            transition: all 0.2s;
+            transition: all 0.2s ease;
         }
         
         .accordion-item:hover {
-            background: #fafafa;
+            background: #1e293b;
+            border-color: #3b82f6;
         }
         
         .accordion-header {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 30px 40px;
+            padding: 24px 32px;
             cursor: pointer;
-            background: #fff;
+            background: #151f32;
             transition: all 0.2s;
             user-select: none;
-            border-bottom: 1px solid #f0f0f0;
+            border-bottom: 1px solid #334155;
         }
         
         .accordion-header:hover {
-            background: #f8f9fa;
+            background: #1b263b;
         }
         
         .accordion-header.active {
-            background: #f8f9fa;
+            background: #1b263b;
+            border-bottom-color: #3b82f6;
         }
         
         .accordion-title {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
             display: flex;
             align-items: center;
             gap: 15px;
-            font-size: 1.1em;
+            font-size: 1.15em;
             font-weight: 700;
+            color: #f8fafc;
         }
         
         .accordion-emoji {
@@ -126,25 +130,27 @@
         }
         
         .accordion-count {
-            font-size: 0.75em;
-            opacity: 0.8;
+            font-size: 0.8em;
+            color: #94a3b8;
             font-weight: 400;
         }
         
         .accordion-icon {
             font-size: 1.5em;
+            color: #94a3b8;
             transition: transform 0.3s;
         }
         
         .accordion-icon.active {
             transform: rotate(180deg);
+            color: #3b82f6;
         }
         
         .accordion-content {
             max-height: 0;
             overflow: hidden;
             transition: max-height 0.5s ease-out;
-            background: #fff;
+            background: #101726;
         }
         
         .accordion-content.active {
@@ -153,81 +159,69 @@
         }
         
         .terms-list {
-            padding: 40px;
+            padding: 24px 32px;
         }
         
         .intro-section {
-            background: #fff;
-            border: none;
-            border-radius: 0;
-            padding: 0;
-            margin-bottom: 60px;
+            background: #151f32;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 24px 32px;
+            margin-bottom: 40px;
         }
         
         .intro-section h4 {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            color: #111;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            color: #f8fafc;
             margin-bottom: 20px;
-            font-size: 1em;
+            font-size: 1.1em;
             text-align: center;
             font-weight: 700;
         }
         
         .intro-description {
-            background: white;
+            background: transparent;
             padding: 0 0 20px 0;
             border-radius: 0;
-            color: #767676;
+            color: #94a3b8;
             line-height: 1.6;
             margin-bottom: 20px;
             font-style: normal;
             text-align: center;
-            font-size: 0.9em;
+            font-size: 0.95em;
         }
         
-        .intro-item {
-            background: white;
+        .intro-item, .term-item {
+            background: transparent;
             border: none;
-            border-bottom: 1px solid #f8f8f8;
-            padding: 30px 0;
+            border-bottom: 1px solid #334155;
+            padding: 24px 10px;
             margin-bottom: 0;
             cursor: pointer;
             transition: all 0.2s;
-            border-radius: 0;
+            border-radius: 8px;
         }
         
-        .intro-item:hover {
-            background: #fafafa;
-            padding-left: 20px;
+        .intro-item:last-child, .term-item:last-child {
+            border-bottom: none;
         }
         
-        .term-item {
-            background: white;
-            border: none;
-            border-bottom: 1px solid #f8f8f8;
-            padding: 30px 0;
-            margin-bottom: 0;
-            cursor: pointer;
-            transition: all 0.2s;
-            border-radius: 0;
-        }
-        
-        .term-item:hover {
-            background: #fafafa;
+        .intro-item:hover, .term-item:hover {
+            background: #1e293b;
             padding-left: 20px;
         }
         
         .term-item-name {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
             font-weight: 700;
-            color: #111;
-            font-size: 0.95em;
+            color: #f8fafc;
+            font-size: 1.05em;
             margin-bottom: 8px;
         }
         
         .term-item-def {
-            color: #767676;
-            font-size: 0.85em;
+            color: #94a3b8;
+            font-size: 0.9em;
             line-height: 1.5;
             display: -webkit-box;
             -webkit-line-clamp: 2;
@@ -237,13 +231,14 @@
         
         .reference-badge {
             display: inline-block;
-            background: #f8f9fa;
-            color: #111;
-            padding: 2px 8px;
-            border-radius: 3px;
-            font-size: 0.75em;
-            margin-left: 8px;
-            border: none;
+            background: #1e293b;
+            color: #3b82f6;
+            border: 1px solid #334155;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.8em;
+            font-weight: 600;
+            margin-top: 10px;
         }
         
         .image-indicator {
@@ -262,7 +257,7 @@
         .loading {
             text-align: center;
             padding: 40px;
-            color: #0073aa;
+            color: #3b82f6;
             font-size: 1.2em;
         }
         
@@ -276,7 +271,7 @@
             width: 100%;
             height: 100%;
             overflow: hidden;
-            background-color: rgba(0,0,0,0.8);
+            background-color: rgba(0,0,0,0.85);
             animation: fadeIn 0.3s;
         }
         
@@ -286,13 +281,14 @@
         }
         
         .modal-content {
-            background-color: #fefefe;
+            background-color: #1e293b;
             margin: 2% auto;
             padding: 0;
-            border-radius: 0;
+            border-radius: 16px;
+            border: 1px solid #334155;
             width: 90%;
             max-width: 1000px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
             animation: slideDown 0.3s;
             max-height: 90vh;
             overflow-y: auto;
@@ -310,17 +306,18 @@
         }
         
         .modal-header {
-            background: linear-gradient(90deg, #0073aa 0%, #005177 100%);
+            background: linear-gradient(90deg, #1d4ed8 0%, #1e40af 100%);
             color: white;
-            padding: 20px 30px;
-            border-radius: 0;
+            padding: 24px 32px;
+            border-radius: 16px 16px 0 0;
             position: relative;
-            margin: -40px -40px 20px -40px;
+            margin: 0;
+            border-bottom: 1px solid #334155;
         }
         
         .modal-title {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            font-size: 1.3em;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-size: 1.4em;
             margin-bottom: 8px;
             font-weight: 700;
             line-height: 1.3;
@@ -354,26 +351,26 @@
         }
         
         .modal-body {
-            padding: 0;
+            padding: 32px;
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 40px;
-            margin-top: 20px;
+            margin-top: 0;
             flex: 1;
             overflow: hidden;
         }
         
         .text-column {
-            padding: 20px 30px 20px 0;
-            background: white;
-            border-right: 1px solid #e9ecef;
+            padding: 0 20px 0 0;
+            background: transparent;
+            border-right: 1px solid #334155;
             overflow-y: auto;
             max-height: 100%;
         }
         
         .image-column {
-            padding: 20px 0 20px 20px;
-            background: white;
+            padding: 0 0 0 20px;
+            background: transparent;
             overflow: hidden;
         }
         
@@ -382,16 +379,16 @@
         }
         
         .definition-title {
-            font-size: 1.4em;
-            color: #111;
-            margin-bottom: 20px;
-            font-weight: 600;
+            font-size: 1.3em;
+            color: #f8fafc;
+            margin-bottom: 16px;
+            font-weight: 700;
         }
         
         .definition-text {
-            color: #767676;
+            color: #94a3b8;
             line-height: 1.8;
-            font-size: 1.1em;
+            font-size: 1.05em;
         }
         
         .images-section {
@@ -410,20 +407,23 @@
         
         .image-container {
             position: relative;
-            border-radius: 0;
+            border-radius: 12px;
             overflow: hidden;
-            box-shadow: 0 0 0 1px rgba(0,0,0,0.1);
+            border: 1px solid #334155;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.25);
             cursor: pointer;
-            transition: transform 0.2s;
+            transition: transform 0.2s, border-color 0.2s;
             align-self: center;
             max-width: 100%;
             display: flex;
             flex-direction: column;
             align-items: center;
+            background: #0b0f19;
         }
         
         .image-container:hover {
             transform: scale(1.02);
+            border-color: #3b82f6;
         }
         
         .image-container img {
@@ -434,27 +434,25 @@
             object-fit: contain;
             display: block;
             margin: 0 auto;
+            background: #0b0f19;
         }
         
         .image-caption {
             position: relative;
-            bottom: auto;
-            left: auto;
-            right: auto;
-            background: #f8f9fa;
-            color: #111;
+            background: #151f32;
+            color: #94a3b8;
             padding: 12px 15px;
-            font-size: 0.8em;
+            font-size: 0.85em;
             line-height: 1.4;
             text-align: center;
-            border-top: 1px solid #e9ecef;
+            border-top: 1px solid #334155;
             width: 100%;
             box-sizing: border-box;
         }
         
         .no-images {
             text-align: center;
-            color: #999;
+            color: #64748b;
             padding: 30px;
             font-style: italic;
         }
@@ -464,9 +462,10 @@
             gap: 30px;
             flex-wrap: wrap;
             margin-top: 30px;
-            padding: 30px;
-            background: #fafafa;
-            border-radius: 0;
+            padding: 24px;
+            background: #151f32;
+            border: 1px solid #334155;
+            border-radius: 12px;
         }
         
         .metadata-item {
@@ -475,17 +474,17 @@
         }
         
         .metadata-label {
-            font-size: 0.9em;
-            color: #767676;
+            font-size: 0.85em;
+            color: #64748b;
             text-transform: none;
             letter-spacing: 0;
             margin-bottom: 8px;
-            font-weight: 500;
+            font-weight: 600;
         }
         
         .metadata-value {
-            font-weight: 600;
-            color: #111;
+            font-weight: 700;
+            color: #f8fafc;
         }
         
         /* Advanced Image viewer modal */
@@ -497,7 +496,7 @@
             top: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0,0,0,0.95);
+            background-color: rgba(5,8,15,0.95);
             overflow: hidden;
         }
         
@@ -532,19 +531,20 @@
             color: white;
             cursor: pointer;
             z-index: 2001;
-            background: rgba(0,0,0,0.7);
+            background: rgba(15,23,42,0.8);
             border-radius: 50%;
             width: 50px;
             height: 50px;
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: background 0.3s;
-            border: 2px solid rgba(255,255,255,0.3);
+            transition: background 0.3s, border-color 0.3s;
+            border: 2px solid rgba(255,255,255,0.2);
         }
         
         .image-viewer .close:hover {
-            background: rgba(255,255,255,0.2);
+            background: #ef4444;
+            border-color: #ef4444;
         }
         
         .zoom-controls {
@@ -555,14 +555,15 @@
             display: flex;
             gap: 10px;
             z-index: 2001;
-            background: rgba(0,0,0,0.7);
+            background: rgba(15,23,42,0.8);
             padding: 10px 20px;
             border-radius: 25px;
-            border: 2px solid rgba(255,255,255,0.3);
+            border: 2px solid #334155;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
         }
         
         .zoom-btn {
-            background: rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.1);
             border: none;
             color: white;
             width: 40px;
@@ -578,11 +579,11 @@
         }
         
         .zoom-btn:hover {
-            background: rgba(255,255,255,0.4);
+            background: rgba(255,255,255,0.3);
         }
         
         .zoom-btn:disabled {
-            opacity: 0.5;
+            opacity: 0.4;
             cursor: not-allowed;
         }
         
@@ -592,7 +593,7 @@
             display: flex;
             align-items: center;
             font-size: 14px;
-            font-weight: 500;
+            font-weight: 600;
             min-width: 60px;
             text-align: center;
             justify-content: center;
@@ -609,11 +610,13 @@
             .modal-body {
                 grid-template-columns: 1fr;
                 grid-template-rows: auto 1fr;
+                padding: 20px;
+                gap: 20px;
             }
             
             .text-column {
                 border-right: none;
-                border-bottom: 1px solid #e9ecef;
+                border-bottom: 1px solid #334155;
                 padding-bottom: 20px;
                 max-height: 40vh;
                 padding-right: 0;
@@ -630,16 +633,15 @@
                 width: 98%;
                 margin: 1% auto;
                 max-height: 98vh;
-                padding: 20px;
+                padding: 0;
             }
             
             .modal-header {
-                margin: -20px -20px 15px -20px;
-                padding: 15px 20px;
+                padding: 16px 20px;
             }
             
             .modal-title {
-                font-size: 1.1em;
+                font-size: 1.2em;
             }
             
             .text-column {
@@ -650,13 +652,21 @@
             .image-container img {
                 max-height: 250px;
             }
+            
+            .content {
+                padding: 20px;
+            }
         }
     </style>
-    <link rel="stylesheet" href="assets/neuropedialab-theme.css">
 </head>
 <body>
     <div class="container">
-        <header>
+        <header style="position: relative;">
+        <div style="position: absolute; top: 20px; right: 25px; z-index: 100;">
+            <button id="langToggle" onclick="toggleLanguage()" style="background: #2563eb; color: #ffffff; border: 1px solid #3b82f6; padding: 8px 18px; border-radius: 20px; cursor: pointer; font-weight: 700; font-size: 0.95rem; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4); transition: all 0.2s;">
+                <span id="langFlag">🇪🇸</span> <span id="langLabel">Español</span>
+            </button>
+        </div>
             <h1>Atlas de Dismorfología</h1>
             <p class="subtitle">Terminología estándar para fenotipos humanos</p>
         </header>
@@ -688,6 +698,13 @@
                         <h3 class="definition-title">📖 Definición</h3>
                         <p class="definition-text" id="modalDefinition"></p>
                     </div>
+                    <div class="definition-section" id="hpoSection" style="display: none; margin-top: 20px;">
+                        <h3 class="definition-title">🧬 Descriptor HPO</h3>
+                        <p class="definition-text">
+                            <a class="reference-badge" id="modalHpoId" target="_blank" rel="noopener noreferrer" style="text-decoration: none; cursor: pointer;"></a>
+                            <span id="modalHpoLabel" style="margin-left: 10px; font-weight: 500; color: #f8fafc;"></span>
+                        </p>
+                    </div>
                 </div>
                 
                 <div class="image-column">
@@ -714,6 +731,53 @@
     </div>
     
     <script>
+        let currentLang = localStorage.getItem('atlas_lang') || 'es';
+
+        const i18n = {
+            es: {
+                title: 'Atlas de Dismorfología',
+                subtitle: 'Terminología estándar para fenotipos humanos',
+                intro: 'Una referencia completa de terminología morfológica estándar para el diagnóstico y clasificación de anomalías del desarrollo humano.',
+                searchPlaceholder: 'Buscar término dismorfológico (ej: Turricephaly, Earlobe, Philtrum)...',
+                langName: 'Español',
+                flag: '🇪🇸'
+            },
+            en: {
+                title: 'Dysmorphology Atlas',
+                subtitle: 'Standard terminology for human phenotypes',
+                intro: 'A comprehensive reference of standard morphological terminology for diagnosis and classification of human developmental anomalies.',
+                searchPlaceholder: 'Search dysmorphology term (e.g., Turricephaly, Earlobe, Philtrum)...',
+                langName: 'English',
+                flag: '🇬🇧'
+            }
+        };
+
+        function toggleLanguage() {
+            currentLang = currentLang === 'es' ? 'en' : 'es';
+            localStorage.setItem('atlas_lang', currentLang);
+            updateUI();
+            loadData();
+        }
+
+        function updateUI() {
+            const t = i18n[currentLang];
+            const flagEl = document.getElementById('langFlag');
+            const labelEl = document.getElementById('langLabel');
+            if (flagEl) flagEl.textContent = t.flag;
+            if (labelEl) labelEl.textContent = t.langName;
+            
+            const h1 = document.querySelector('h1');
+            const sub = document.querySelector('.subtitle');
+            const intro = document.querySelector('.intro-text');
+
+            if (h1) h1.textContent = t.title;
+            if (sub) sub.textContent = t.subtitle;
+            if (intro) intro.textContent = t.intro;
+
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput) searchInput.placeholder = t.searchPlaceholder;
+        }
+
         // Global data
         let allTerms = [];
         let allImages = {};
@@ -722,89 +786,87 @@
         // Anatomical regions with hierarchy (in Spanish)
         const anatomicalRegions = {
             'introduction': {
-                name: 'Bases Generales de la Clasificación Anatómica',
+                name: { es: 'Bases Generales de la Clasificación Anatómica', en: 'General Principles of Anatomical Classification' },
                 emoji: '📚',
                 categories: ['introduction', 'phenotypic_variations'],
                 order: 0,
                 isIntro: true
             },
             'head_face': {
-                name: 'Cabeza y Cara',
+                name: { es: 'Cabeza y Cara', en: 'Head and Face' },
                 emoji: '👤',
                 categories: ['head_face'],
                 order: 1
             },
             'ear': {
-                name: 'Oído',
+                name: { es: 'Oído', en: 'Ear' },
                 emoji: '👂',
                 categories: ['ear'],
                 order: 2
             },
             'periorbital': {
-                name: 'Región Periorbital',
+                name: { es: 'Región Periorbital', en: 'Periorbital Region' },
                 emoji: '👁️',
                 categories: ['periorbital'],
                 order: 3
             },
             'nose_philtrum': {
-                name: 'Nariz y Filtrum',
+                name: { es: 'Nariz y Filtrum', en: 'Nose and Philtrum' },
                 emoji: '👃',
                 categories: ['nose_philtrum'],
                 order: 4
             },
             'lips_mouth': {
-                name: 'Labios y Boca',
+                name: { es: 'Labios y Boca', en: 'Lips and Mouth' },
                 emoji: '👄',
                 categories: ['lips_mouth'],
                 order: 5
             },
             'teeth': {
-                name: 'Dientes',
+                name: { es: 'Dientes', en: 'Teeth' },
                 emoji: '🦷',
                 categories: ['teeth'],
                 order: 6
             },
             'hands_feet': {
-                name: 'Manos y Pies',
+                name: { es: 'Manos y Pies', en: 'Hands and Feet' },
                 emoji: '✋',
                 categories: ['hands_feet'],
                 order: 7
             },
             'genitalia': {
-                name: 'Genitales Externos',
+                name: { es: 'Genitales Externos', en: 'External Genitalia' },
                 emoji: '🍎',
                 categories: ['genitalia'],
                 order: 8
             },
             'general': {
-                name: 'Genitales Externos',
-                emoji: '🍎',
+                name: { es: 'General / Otros', en: 'General / Others' },
+                emoji: '🔍',
                 categories: ['general'],
                 order: 9
             }
         };
-        
-        // Load all data
+
         async function loadData() {
             try {
-                // Load summary
-                const summaryResponse = await fetch('data/organized/summary.json');
-                const summary = await summaryResponse.json();
+                const termsFile = 'data/' + currentLang + '/morphology_terms.json';
+                const catFile = 'data/' + currentLang + '/terms_by_category.json';
                 
-                // Load terms
-                const termsResponse = await fetch('data/organized/morphology_terms.json');
-                allTerms = await termsResponse.json();
+                const [termsResp, catResp] = await Promise.all([
+                    fetch(termsFile),
+                    fetch(catFile)
+                ]);
+
+                allTerms = await termsResp.json();
+                termsByCategory = await catResp.json();
+
+                const countEl = document.getElementById('totalTermsCount');
+                if (countEl) countEl.textContent = allTerms.length;
                 
-                // Load images catalog
-                const imagesResponse = await fetch('data/organized/images_catalog.json');
-                allImages = await imagesResponse.json();
-                
-                // Load term-image mapping with captions
                 try {
                     const mappingResponse = await fetch('data/organized/term_image_mapping.json');
                     const fullMapping = await mappingResponse.json();
-                    
-                    // Convert to simple format for the app
                     termImageMap = {};
                     for (const [term, mappings] of Object.entries(fullMapping)) {
                         if (mappings && mappings.length > 0) {
@@ -815,37 +877,32 @@
                                         termImageMap[term].push({
                                             image: img,
                                             figure: mapping.figure,
-                                            caption: mapping.caption || `Figura ${mapping.figure}`
+                                            caption: mapping.caption || ('Figura ' + mapping.figure)
                                         });
                                     });
                                 }
                             });
                         }
                     }
-                    console.log(`Cargado mapeo de imágenes para ${Object.keys(termImageMap).length} términos`);
+                    const imgCountEl = document.getElementById('totalImagesCount');
+                    if (imgCountEl) imgCountEl.textContent = '388';
                 } catch (e) {
-                    console.warn('Mapeo de términos-imágenes no encontrado, intentando mapeo simple');
-                    try {
-                        const simpleResponse = await fetch('data/organized/term_images_with_captions.json');
-                        termImageMap = await simpleResponse.json();
-                    } catch (e2) {
-                        console.warn('No se encontró mapeo de imágenes');
-                    }
+                    console.warn('No se pudo cargar el mapeo de imágenes:', e);
                 }
                 
-                // Stats removed from UI
-                
-                // Create accordion
-                createAccordion();
+                renderCategoryCards();
+                updateUI();
                 
             } catch (error) {
-                console.error('Error loading data:', error);
-                document.getElementById('terms').innerHTML = '<p class="loading" style="color: red;">Error al cargar los datos.</p>';
+                console.error('Error al cargar datos:', error);
+                const container = document.getElementById('accordionContainer');
+                if (container) container.innerHTML = '<div style="text-align:center; padding: 40px; color: #ef4444;">❌ Error al cargar los datos. Por favor recarga la página.</div>';
             }
         }
+
         
-        // Create accordion structure
-        function createAccordion() {
+        function renderCategoryCards() { createAccordion(); }
+function createAccordion() {
             const accordionContainer = document.getElementById('anatomyAccordion');
             accordionContainer.innerHTML = '';
             
@@ -873,7 +930,7 @@
                 header.innerHTML = `
                     <div class="accordion-title">
                         <span class="accordion-emoji">${regionData.emoji}</span>
-                        <span>${regionData.name}</span>
+                        <span>${typeof regionData.name === "object" ? (regionData.name[currentLang] || regionData.name.es) : regionData.name}</span>
                         <span class="accordion-count">(${regionTerms.length} término${regionTerms.length !== 1 ? 's' : ''})</span>
                     </div>
                     <span class="accordion-icon">▼</span>
@@ -912,7 +969,7 @@
                         const imageIcon = hasImages ? '<span class="image-indicator" title="Contiene imágenes">🖼️</span>' : '';
                         
                         introItem.innerHTML = `
-                            <div class="term-item-name">${imageIcon}${term.term}</div>
+                            <div class="term-item-name">${imageIcon}${term.display_title || term.term} ${term.hpo_id ? `<a href="https://hpo.jax.org/app/browse/term/${term.hpo_id}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();" class="reference-badge" style="margin-left: 8px; font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #818cf8; border: 1px solid rgba(99, 102, 241, 0.3); text-decoration: none; cursor: pointer;">${term.hpo_id} 🔗</a>` : ""}</div>
                             <div class="term-item-def">${defPreview}${term.definition.length > 150 ? '...' : ''}</div>
                         `;
                         introSection.appendChild(introItem);
@@ -936,7 +993,7 @@
                         const imageIcon = hasImages ? '<span class="image-indicator" title="Contiene imágenes">🖼️</span>' : '';
                         
                         termItem.innerHTML = `
-                            <div class="term-item-name">${imageIcon}${term.term}</div>
+                            <div class="term-item-name">${imageIcon}${term.display_title || term.term} ${term.hpo_id ? `<a href="https://hpo.jax.org/app/browse/term/${term.hpo_id}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();" class="reference-badge" style="margin-left: 8px; font-size: 0.75rem; background: rgba(99, 102, 241, 0.2); color: #818cf8; border: 1px solid rgba(99, 102, 241, 0.3); text-decoration: none; cursor: pointer;">${term.hpo_id} 🔗</a>` : ""}</div>
                             <div class="term-item-def">${defPreview}${term.definition.length > 120 ? '...' : ''}</div>
                         `;
                         
@@ -979,12 +1036,16 @@
         
         // Get images for a term
         function getImagesForTerm(term) {
-            // First, try precise mapping with captions
+            // First, try precise mapping with term English name or Spanish term
+            const termKey = term.term_en || term.term;
+            if (termImageMap[termKey]) {
+                return termImageMap[termKey];
+            }
             if (termImageMap[term.term]) {
                 return termImageMap[term.term];
             }
             
-            // Fallback: get images from the document (less precise)
+            // Fallback: get images from the document (less precise) from the document (less precise)
             const baseName = term.source.replace('.txt', '').replace('data/', '');
             const matchingImages = [];
             
@@ -1013,7 +1074,7 @@
             const modal = document.getElementById('termModal');
             
             // Set content
-            document.getElementById('modalTitle').textContent = term.term;
+            document.getElementById('modalTitle').textContent = term.display_title || term.term;
             document.getElementById('modalCategory').textContent = getRegionName(term.category);
             
             // Check if it's a "see" reference
@@ -1023,6 +1084,16 @@
                 definitionEl.innerHTML = `${term.definition.replace('See:', 'Ver:')} <a href="#" onclick="searchAndOpenTerm('${term.reference_to.replace(/'/g, "\\'")}'); return false;" style="color: #667eea; text-decoration: underline; font-weight: bold;">${term.reference_to}</a>`;
             } else {
                 definitionEl.textContent = term.definition;
+            }
+            
+            // Set HPO info if available
+            const hpoSection = document.getElementById('hpoSection');
+            if (term.hpo_id) {
+                const hpoEl = document.getElementById('modalHpoId'); hpoEl.textContent = term.hpo_id; hpoEl.href = 'https://hpo.jax.org/app/browse/term/' + term.hpo_id;
+                document.getElementById('modalHpoLabel').textContent = term.hpo_label;
+                hpoSection.style.display = 'block';
+            } else {
+                hpoSection.style.display = 'none';
             }
             
             // Load related images with captions
@@ -1064,7 +1135,11 @@
                 });
                 
                 // Add info if precise mapping was used
-                if (termImageMap[term.term]) {
+                const termKey = term.term_en || term.term;
+            if (termImageMap[termKey]) {
+                return termImageMap[termKey];
+            }
+            if (termImageMap[term.term]) {
                     const info = document.createElement('p');
                     info.style.cssText = 'text-align: center; color: #667eea; font-size: 0.9em; margin-top: 15px; font-style: italic;';
                     info.innerHTML = `✓ ${imagesData.length} figura(s) específica(s) referenciada(s) en la definición`;
@@ -1330,10 +1405,18 @@
             }
         });
         
-        // Initialize application
-        loadData();
-        setupMouseWheelZoom();
-        setupKeyboardControls();
+        // Initialize application when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initApp);
+        } else {
+            initApp();
+        }
+
+        function initApp() {
+            loadData();
+            setupMouseWheelZoom();
+            setupKeyboardControls();
+        }
     </script>
 </body>
 </html>
