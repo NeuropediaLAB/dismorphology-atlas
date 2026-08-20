@@ -657,6 +657,194 @@
                 padding: 20px;
             }
         }
+        
+        /* Search bar with autocomplete */
+        .search-container {
+            position: relative;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+        
+        .search-input-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+        
+        .search-icon {
+            position: absolute;
+            left: 16px;
+            color: #64748b;
+            font-size: 1.1em;
+            pointer-events: none;
+        }
+        
+        #searchInput {
+            width: 100%;
+            padding: 14px 16px 14px 44px;
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            color: #f8fafc;
+            font-size: 1em;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        
+        #searchInput::placeholder {
+            color: #475569;
+        }
+        
+        #searchInput:focus {
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+        }
+        
+        .search-clear {
+            position: absolute;
+            right: 12px;
+            background: none;
+            border: none;
+            color: #64748b;
+            font-size: 1.3em;
+            cursor: pointer;
+            width: 28px;
+            height: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: background 0.2s, color 0.2s;
+        }
+        
+        .search-clear:hover {
+            background: #1e293b;
+            color: #f8fafc;
+        }
+        
+        .search-suggestions {
+            display: none;
+            position: absolute;
+            top: calc(100% + 6px);
+            left: 0;
+            right: 0;
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            max-height: 400px;
+            overflow-y: auto;
+            z-index: 500;
+        }
+        
+        .search-suggestions.active {
+            display: block;
+        }
+        
+        .suggestion-item {
+            padding: 12px 16px;
+            cursor: pointer;
+            border-bottom: 1px solid #1e293b;
+            transition: background 0.15s;
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+        }
+        
+        .suggestion-item:last-child {
+            border-bottom: none;
+        }
+        
+        .suggestion-item:hover,
+        .suggestion-item.highlighted {
+            background: #1e293b;
+        }
+        
+        .suggestion-icon {
+            font-size: 1.1em;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+        
+        .suggestion-content {
+            flex: 1;
+            min-width: 0;
+        }
+        
+        .suggestion-term {
+            font-weight: 700;
+            color: #f8fafc;
+            font-size: 0.95em;
+            margin-bottom: 2px;
+        }
+        
+        .suggestion-term mark {
+            background: rgba(59, 130, 246, 0.25);
+            color: #93c5fd;
+            border-radius: 3px;
+            padding: 0 2px;
+        }
+        
+        .suggestion-meta {
+            font-size: 0.8em;
+            color: #64748b;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .suggestion-category {
+            color: #818cf8;
+        }
+        
+        .suggestion-hpo {
+            background: rgba(99, 102, 241, 0.15);
+            color: #818cf8;
+            border: 1px solid rgba(99, 102, 241, 0.25);
+            padding: 1px 6px;
+            border-radius: 4px;
+            font-size: 0.85em;
+        }
+        
+        .suggestion-def {
+            font-size: 0.8em;
+            color: #64748b;
+            margin-top: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        
+        .suggestion-no-results {
+            padding: 20px 16px;
+            text-align: center;
+            color: #64748b;
+            font-style: italic;
+        }
+        
+        .search-stats {
+            padding: 8px 16px;
+            font-size: 0.75em;
+            color: #475569;
+            text-align: right;
+            border-bottom: 1px solid #1e293b;
+        }
+        
+        @media (max-width: 768px) {
+            .search-container {
+                margin: 0 0 20px;
+            }
+            
+            #searchInput {
+                font-size: 0.95em;
+                padding: 12px 12px 12px 40px;
+            }
+            
+            .search-suggestions {
+                max-height: 300px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -677,6 +865,15 @@
             <p class="intro-text">
                 Una referencia completa de terminología morfológica estándar para el diagnóstico y clasificación de anomalías del desarrollo humano.
             </p>
+            
+            <div class="search-container">
+                <div class="search-input-wrapper">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="searchInput" autocomplete="off" spellcheck="false" />
+                    <button class="search-clear" id="searchClear" style="display: none;">&times;</button>
+                </div>
+                <div class="search-suggestions" id="searchSuggestions"></div>
+            </div>
             
             <div class="accordion" id="anatomyAccordion">
                 <div class="loading">Cargando regiones anatómicas...</div>
@@ -756,7 +953,9 @@
             currentLang = currentLang === 'es' ? 'en' : 'es';
             localStorage.setItem('atlas_lang', currentLang);
             updateUI();
-            loadData();
+            loadData().then(() => {
+                buildSearchIndex();
+            });
         }
 
         function updateUI() {
@@ -1407,6 +1606,248 @@ function createAccordion() {
             }
         });
         
+        // ==== SEARCH WITH AUTOCOMPLETE ===
+        let searchIndex = [];
+        let highlightedIdx = -1;
+        let currentSuggestions = [];
+        
+        function buildSearchIndex() {
+            searchIndex = allTerms.map(t => {
+                const imgKey = t.term_en || t.term;
+                const hasImages = termImageMap[imgKey] && termImageMap[imgKey].length > 0;
+                const regionData = Object.values(anatomicalRegions).find(r => r.categories.includes(t.category));
+                const regionName = regionData ? (typeof regionData.name === 'object' ? regionData.name[currentLang] || regionData.name.es : regionData.name) : t.category;
+                const regionEmoji = regionData ? regionData.emoji : '';
+                return {
+                    term: t.term,
+                    term_en: t.term_en || t.term,
+                    definition: t.definition || '',
+                    category: t.category,
+                    regionName: regionName,
+                    regionEmoji: regionEmoji,
+                    hpo_id: t.hpo_id || '',
+                    hpo_label: t.hpo_label || '',
+                    hasImages: hasImages,
+                    ref: t
+                };
+            });
+        }
+        
+        function escapeHtml(s) {
+            return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+        }
+        
+        function highlightMatch(text, query) {
+            if (!query) return escapeHtml(text);
+            const escaped = escapeHtml(text);
+            const lowerText = escaped.toLowerCase();
+            const lowerQuery = query.toLowerCase();
+            const idx = lowerText.indexOf(lowerQuery);
+            if (idx === -1) return escaped;
+            return escaped.substring(0, idx) + '<mark>' + escaped.substring(idx, idx + query.length) + '</mark>' + escaped.substring(idx + query.length);
+        }
+        
+        function searchTerms(query) {
+            query = query.trim().toLowerCase();
+            if (!query) return [];
+            
+            const results = [];
+            const seen = new Set();
+            
+            for (const item of searchIndex) {
+                const termLower = item.term.toLowerCase();
+                const termEnLower = item.term_en.toLowerCase();
+                const defLower = item.definition.toLowerCase();
+                const hpoLower = item.hpo_id.toLowerCase();
+                
+                let score = 0;
+                
+                // Exact match
+                if (termLower === query || termEnLower === query) {
+                    score = 100;
+                }
+                // Starts with query
+                else if (termLower.startsWith(query) || termEnLower.startsWith(query)) {
+                    score = 80;
+                }
+                // Word starts with query
+                else if (termLower.includes(' ' + query) || termEnLower.includes(' ' + query)) {
+                    score = 60;
+                }
+                // Contains query
+                else if (termLower.includes(query) || termEnLower.includes(query)) {
+                    score = 40;
+                }
+                // HPO ID match
+                else if (hpoLower.includes(query)) {
+                    score = 50;
+                }
+                // Definition contains query
+                else if (defLower.includes(query)) {
+                    score = 20;
+                }
+                
+                if (score > 0) {
+                    const key = item.term_en || item.term;
+                    if (!seen.has(key)) {
+                        seen.add(key);
+                        results.push({ ...item, score });
+                    }
+                }
+            }
+            
+            results.sort((a, b) => b.score - a.score);
+            return results.slice(0, 12);
+        }
+        
+        function renderSuggestions(results, query) {
+            const container = document.getElementById('searchSuggestions');
+            
+            if (!query.trim()) {
+                container.classList.remove('active');
+                container.innerHTML = '';
+                return;
+            }
+            
+            if (results.length === 0) {
+                container.innerHTML = '<div class="suggestion-no-results">No se encontraron términos para "' + escapeHtml(query) + '"</div>';
+                container.classList.add('active');
+                return;
+            }
+            
+            let html = '<div class="search-stats">' + results.length + ' resultado' + (results.length !== 1 ? 's' : '') + '</div>';
+            
+            results.forEach((item, idx) => {
+                const icon = item.hasImages ? '🖼️' : '📄';
+                const termHighlighted = highlightMatch(item.term, query);
+                const termEnLine = item.term_en !== item.term ? '<span style="color:#475569; font-weight:400;"> (' + escapeHtml(item.term_en) + ')</span>' : '';
+                const hpoBadge = item.hpo_id ? '<span class="suggestion-hpo">' + escapeHtml(item.hpo_id) + '</span>' : '';
+                const defPreview = item.definition ? item.definition.substring(0, 80) + (item.definition.length > 80 ? '...' : '') : '';
+                
+                html += '<div class="suggestion-item" data-idx="' + idx + '">'
+                    + '<span class="suggestion-icon">' + icon + '</span>'
+                    + '<div class="suggestion-content">'
+                    +     '<div class="suggestion-term">' + termHighlighted + termEnLine + '</div>'
+                    +     '<div class="suggestion-meta">'
+                    +         '<span class="suggestion-category">' + item.regionEmoji + ' ' + escapeHtml(item.regionName) + '</span>'
+                    +         (hpoBadge ? '<span style="margin-left:4px;">' + hpoBadge + '</span>' : '')
+                    +     '</div>'
+                    +     (defPreview ? '<div class="suggestion-def">' + escapeHtml(defPreview) + '</div>' : '')
+                    + '</div>'
+                    + '</div>';
+            });
+            
+            container.innerHTML = html;
+            container.classList.add('active');
+            
+            // Attach click handlers
+            container.querySelectorAll('.suggestion-item').forEach(el => {
+                el.addEventListener('click', function() {
+                    const idx = parseInt(this.dataset.idx);
+                    if (currentSuggestions[idx]) {
+                        showTermModal(currentSuggestions[idx].ref);
+                        clearSearch();
+                    }
+                });
+                el.addEventListener('mouseenter', function() {
+                    highlightedIdx = parseInt(this.dataset.idx);
+                    updateHighlight();
+                });
+            });
+        }
+        
+        function updateHighlight() {
+            const items = document.querySelectorAll('.suggestion-item');
+            items.forEach((el, i) => {
+                el.classList.toggle('highlighted', i === highlightedIdx);
+            });
+        }
+        
+        function clearSearch() {
+            const input = document.getElementById('searchInput');
+            const container = document.getElementById('searchSuggestions');
+            const clearBtn = document.getElementById('searchClear');
+            input.value = '';
+            container.classList.remove('active');
+            container.innerHTML = '';
+            clearBtn.style.display = 'none';
+            highlightedIdx = -1;
+            currentSuggestions = [];
+        }
+        
+        function setupSearch() {
+            const input = document.getElementById('searchInput');
+            const container = document.getElementById('searchSuggestions');
+            const clearBtn = document.getElementById('searchClear');
+            
+            input.addEventListener('input', function() {
+                const query = this.value;
+                clearBtn.style.display = query.trim() ? 'flex' : 'none';
+                
+                if (!query.trim()) {
+                    container.classList.remove('active');
+                    container.innerHTML = '';
+                    highlightedIdx = -1;
+                    currentSuggestions = [];
+                    return;
+                }
+                
+                if (!searchIndex.length) buildSearchIndex();
+                
+                currentSuggestions = searchTerms(query);
+                highlightedIdx = -1;
+                renderSuggestions(currentSuggestions, query);
+            });
+            
+            input.addEventListener('keydown', function(e) {
+                const items = container.querySelectorAll('.suggestion-item');
+                
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    if (highlightedIdx < items.length - 1) {
+                        highlightedIdx++;
+                        updateHighlight();
+                        items[highlightedIdx]?.scrollIntoView({ block: 'nearest' });
+                    }
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    if (highlightedIdx > 0) {
+                        highlightedIdx--;
+                        updateHighlight();
+                        items[highlightedIdx]?.scrollIntoView({ block: 'nearest' });
+                    }
+                } else if (e.key === 'Enter') {
+                    e.preventDefault();
+                    if (highlightedIdx >= 0 && currentSuggestions[highlightedIdx]) {
+                        showTermModal(currentSuggestions[highlightedIdx].ref);
+                        clearSearch();
+                    } else if (currentSuggestions.length > 0) {
+                        showTermModal(currentSuggestions[0].ref);
+                        clearSearch();
+                    }
+                } else if (e.key === 'Escape') {
+                    clearSearch();
+                    input.blur();
+                }
+            });
+            
+            clearBtn.addEventListener('click', clearSearch);
+            
+            // Close suggestions when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-container')) {
+                    container.classList.remove('active');
+                }
+            });
+            
+            // Reopen on focus if there's text
+            input.addEventListener('focus', function() {
+                if (this.value.trim() && currentSuggestions.length > 0) {
+                    container.classList.add('active');
+                }
+            });
+        }
+        
         // Initialize application when DOM is ready
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initApp);
@@ -1415,7 +1856,10 @@ function createAccordion() {
         }
 
         function initApp() {
-            loadData();
+            loadData().then(() => {
+                buildSearchIndex();
+                setupSearch();
+            });
             setupMouseWheelZoom();
             setupKeyboardControls();
         }
